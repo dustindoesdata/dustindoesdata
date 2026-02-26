@@ -21,7 +21,7 @@
 
 ## 🧭 About Me
 
-I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. Through all of it: a follower of Jesus, a husband, a father, a lifelong learner, and someone who genuinely believes the best solution to any problem starts with the right question.
+I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. Through all of it: a husband, a father, a lifelong learner, and someone who genuinely believes the best solution to any problem starts with the right question.
 
 I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in Information Technology (Summa Cum Laude)**. I specialize in **predictive analytics, business intelligence, and enterprise automation** across the full data lifecycle, from raw pipeline to executive decision. My technical home is the **Microsoft data stack** (Fabric, Power BI, Power Platform, Azure) paired with **Python and SQL**, but I am fluent across tools and focused on outcomes over platforms.
 
@@ -31,7 +31,10 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 🎤 &nbsp; Public speaker who **leads with questions** before answers<br/>
 📚 &nbsp; Currently leveling up in **deep learning & MLOps** via Kaggle<br/>
 ⛪ &nbsp; **12 years** as a Christian, **6 years** in active church leadership<br/>
-🤖 &nbsp; Homeschooling father of **3 kids** who all independently fell in love with math and logic<br/>
+🤖 &nbsp; Homeschooling father of **3 kids**: one who loves solving hard math problems, one who builds everything in sight, and one who explores every crack and crevice of the world<br/>
+🙏 &nbsp; We believe God is three distinct persons, one being, one God. We read the Bible together **30 minutes every day** and memorize **one verse every week** as a family<br/>
+🚗 &nbsp; A car wreck that could have taken us all gave me a sharper perspective on what matters in this world<br/>
+🌍 &nbsp; My mission: **transform the world, one life at a time. One data point at a time.**<br/>
 
 </td></tr></table>
 
@@ -62,7 +65,7 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 📐 &nbsp; **15.8%** average portfolio ROI delivered across a personal book of business<br/>
 🤝 &nbsp; **30** financial advisory clients acquired entirely through cold outreach<br/>
 📋 &nbsp; **1** dedicated CRM managed door-to-door, zero clients allowed to fall through the cracks<br/>
-📞 &nbsp; **20+** years of combined customer-facing experience from times where multiple jobs was the only option, across industries<br/>
+📞 &nbsp; **20+** years of combined customer-facing experience across industries<br/>
 🏢 &nbsp; **4** industries served as advisor, consultant, or developer: construction, federal, finance, telecom<br/>
 
 **🎓 Education, Coaching & Training**<br/>
@@ -77,6 +80,8 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 📚 &nbsp; **10+** technology domains covered at Woz U: C#, ASP.NET, React, Angular, SQL, DevOps, Agile, Cloud, UI/UX, Web Services<br/>
 🧠 &nbsp; **Design Thinking** certified through AT&T's professional development platform<br/>
 🎓 &nbsp; **3** technical certifications earned through freeCodeCamp<br/>
+🏆 &nbsp; HackerRank **5-Star SQL Gold**, ranked **#160,174** globally<br/>
+🧩 &nbsp; **47 of 58** HackerRank SQL challenges completed and counting<br/>
 🤖 &nbsp; **3** kids currently homeschooled, all tracking ahead in mathematics and logic<br/>
 
 **🎖️ Military & Service**<br/>
@@ -94,15 +99,21 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 💰 &nbsp; Managed a **benevolence budget**, making financial decisions for people at their most vulnerable<br/>
 🫂 &nbsp; **Countless** follow-ups with people who walked away: the bridge was always kept open<br/>
 📖 &nbsp; **1 commission** anchoring it all: *"Go, make disciples of all nations"* Matthew 28:19<br/>
+📖 &nbsp; **30 minutes** of Bible reading together as a family, every single day<br/>
+🕊️ &nbsp; **1 verse** memorized as a family every week, year after year<br/>
+✝️ &nbsp; We believe in one God: **Father, Son, and Holy Spirit**, three distinct persons, one being<br/>
+🚗 &nbsp; **1 car wreck** that should have ended everything, and instead clarified everything<br/>
+🌍 &nbsp; **1 mission**: transform the world, one life at a time, one data point at a time<br/>
 
 **🎮 The Human Behind the Data**<br/>
 👾 &nbsp; **1,025** Pokémon caught, and counting<br/>
 👩‍❤️‍👨 &nbsp; **1** wife: the best decision I ever made<br/>
-👧👦👦 &nbsp; **3** kids, all independently obsessed with math and logic<br/>
+👧👦👦 &nbsp; **3** kids: one solves hard math problems for fun, one builds anything he can get his hands on, and one explores every crack and crevice of the world with zero fear<br/>
 🐶 &nbsp; **1** dog: chaos in fur form, loved unconditionally<br/>
-🍽️ &nbsp; **3 to 5** tables managed simultaneously every shift at Texas Roadhouse, parallel project management at scale<br/>
+🍽️ &nbsp; **6 to 8** tables managed simultaneously every shift at Texas Roadhouse, parallel project management at scale<br/>
 📖 &nbsp; **Generations** of family history now preserved in a single Python automation system<br/>
 ✈️ &nbsp; **Multiple** countries visited, always ready to add more<br/>
+🎮 &nbsp; **1** ongoing argument with myself about whether data science or Pokédex completion is the more impressive achievement<br/>
 
 </td></tr></table>
 
@@ -114,7 +125,7 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 
 > If you want to win my attention fast, talk to me about **broken workflows, unsolved problems, or something you're learning.**
 
-I am a follower of Jesus, husband, father of three, and dog dad. Our favorite weekend activity is building robots with **VEX Robotics** kits, hiking, chuck-e-cheese, or going to the park. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable humans.
+I am a husband, dog dad, and homeschooling father of three kids who have all independently fallen in love with mathematics and logic. Our favorite weekend activity is building robots with **VEX Robotics** kits. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable humans.
 
 **🎤 How I Communicate**<br/>
 I lead with questions. On a client call, in front of a room, with my team, my first move is always to understand before I explain. Public speaking energizes me because I believe the best insights are unlocked when the right question lands at the right moment.<br/>
@@ -168,6 +179,9 @@ Enterprise Power BI, Power Platform, and Azure. Unified 5 department silos. Deli
 
 🎓 &nbsp; **M.S. Data Science, Graduated with Distinction** *(2025)*<br/>
 The credential that formalizes what the career already proved.<br/>
+
+🌍 &nbsp; **What drives it all**<br/>
+A car wreck that nearly took my family reminded me that time is not guaranteed and impact is not automatic. I am not building a career. I am building a body of work that transforms the world, one life at a time, one data point at a time.<br/>
 
 </details>
 
@@ -445,7 +459,7 @@ The credential that formalizes what the career already proved.<br/>
 </p>
 <p align="center">
   <a href="https://www.hackerrank.com/profile/dustindoesdata">
-    <img src="https://img.shields.io/badge/HackerRank-3%E2%98%85%20SQL%20%7C%20Global%20Rank%20795%2C001-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-5%E2%98%85%20SQL%20GOLD%20%7C%20Rank%20%23160%2C174-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 <p align="center">
@@ -545,7 +559,7 @@ The credential that formalizes what the career already proved.<br/>
 <p>
   <img src="https://img.shields.io/badge/SQL-Advanced%20Queries-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <a href="https://www.hackerrank.com/profile/dustindoesdata">
-    <img src="https://img.shields.io/badge/HackerRank-3%E2%98%85%20SQL%20Badge-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-5%E2%98%85%20SQL%20GOLD%20Badge-FFD700?style=flat-square&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
