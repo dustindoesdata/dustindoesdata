@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=SQL+%7C+Python+%7C+Machine+Learning+%7C+Power+BI;Turning+Messy+Data+into+Clear+Decisions;733%25+Productivity+Increase+—+Not+a+Typo.;M.S.+Data+Science+%7C+Summa+Cum+Laude+B.S.;Veteran+%7C+Father+%7C+Builder+%7C+Lifelong+Learner;%22Business+drives+Technology.%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=SQL+%7C+Python+%7C+Machine+Learning+%7C+Power+BI;Data+Scientist+%7C+ML+Engineer+%7C+BI+Architect;Turning+Messy+Data+into+Clear+Decisions;733%25+Productivity+Increase.+Not+a+Typo.;M.S.+Data+Science+%7C+Summa+Cum+Laude+B.S.;Veteran+%7C+Father+%7C+Builder+%7C+Lifelong+Learner;%22Business+drives+Technology.%22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,26 +20,26 @@
 ## 🧭 About Me
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
 ### 👤 Who I Am
-🎯 &nbsp; **Data Scientist** — where ML meets mission-driven impact<br/>
+🎯 &nbsp; **Data Scientist** where ML meets mission-driven impact<br/>
 💼 &nbsp; Senior Data Visualization Consultant @ **Excella**<br/>
-🎓 &nbsp; M.S. Data Science — **Graduated with Distinction**<br/>
-🏅 &nbsp; B.S. Information Technology — **Summa Cum Laude**<br/>
-🎖️ &nbsp; U.S. Army National Guard, SPC 91B **(2013–2021)**<br/>
+🎓 &nbsp; M.S. Data Science, **Graduated with Distinction**<br/>
+🏅 &nbsp; B.S. Information Technology, **Summa Cum Laude**<br/>
+🎖️ &nbsp; U.S. Army National Guard, SPC 91B **(2013-2021)**<br/>
 🔐 &nbsp; **Public Trust** Clearance (formerly Secret)<br/>
-✈️ &nbsp; Traveler at heart — always open to relocation<br/>
+✈️ &nbsp; Traveler at heart, always open to relocation<br/>
 📚 &nbsp; Currently leveling up: **deep learning & MLOps** via Kaggle experiments<br/>
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 ### 🔢 By the Numbers
 | Metric | Result |
 |--------|--------|
-| Productivity increase via ML | **733%** 🚀 |
+| Productivity increase via automation | **733%** 🚀 |
 | Operational efficiency gain | **25%** 📊 |
 | Department silos unified | **5** 🔗 |
 | Manual process reduction | **30%** 📉 |
@@ -47,14 +47,14 @@
 | Years serving in the military | **8** 🎖️ |
 | Kids building robots with me | **3** 🤖 |
 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ### 🙋 Beyond the Code
 
-> I'm a husband, dog dad, and homeschooling father of **three kids** — all of whom have independently fallen in love with mathematics and logic (coincidence? I think not). Our favorite weekend activity is building robots together with **VEX Robotics** kits. The same data-driven thinking I bring to enterprise systems, I bring to raising curious, capable humans.
+> I'm a husband, dog dad, and homeschooling father of **three kids** who have all independently fallen in love with mathematics and logic. Our favorite weekend activity is building robots together with **VEX Robotics** kits. The same data-driven thinking I bring to enterprise systems is what I bring to raising curious, capable humans.
 >
 > If you want to win my attention fast, talk to me about **broken workflows, unsolved problems, or something you're learning.**
 
@@ -62,11 +62,11 @@
 
 | ⛪ Community | 📚 How I Think | 🗣️ How I Lead |
 |:---:|:---:|:---:|
-| Church leader focused on building people up | **Value Stream Mapping** to eliminate waste in team processes | Public speaking energizes me — I light up in front of a room |
-| Passionate about healthy communication & relationships | **Six Thinking Hats** for balanced, efficient meetings | Reading: *Keep Your Love On* — Danny Silk |
+| Church leader focused on building people up | **Value Stream Mapping** to eliminate waste in team processes | Public speaking energizes me |
+| Passionate about healthy communication and relationships | **Six Thinking Hats** for balanced, efficient meetings | Reading: *Keep Your Love On* by Danny Silk |
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -76,11 +76,43 @@
 ### 🔬 Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Predictive%20Modeling-005F73?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-8E44AD?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Mining-E74C3C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-8E44AD?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-27AE60?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression%20Analysis-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Classification%20Models-E74C3C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
+
+### 📦 Python & Data Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
+
+### 🗄️ Data Engineering & Databases
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Warehousing-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Administration-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
@@ -92,6 +124,9 @@
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/KPI%20Development-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dashboard%20Design-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Storytelling-58a6ff?style=for-the-badge&logoColor=white" />
 </p>
 
 ### ☁️ Cloud, DevOps & Engineering
@@ -99,13 +134,83 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### 💻 Software Development
+<p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+### 🎖️ Military Operations & Leadership
+<p>
+  <img src="https://img.shields.io/badge/Mission%20Planning-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tactical%20Decision%20Making-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operations%20Management-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Military%20Logistics-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Action%20Reviews-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOP%20Development-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unit%20Cohesion-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPSEC-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resource%20Allocation%20Under%20Constraint-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance%20Under%20Pressure-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross--Functional%20Coordination-4B5320?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accountability%20Culture-4B5320?style=for-the-badge&logoColor=white" />
+</p>
+
+### 🧠 Leadership & People Development
+<p>
+  <img src="https://img.shields.io/badge/Servant%20Leadership-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Building-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mentorship%20%26%20Coaching-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stakeholder%20Management-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Change%20Management-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conflict%20Resolution-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Executive%20Communication-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client%20Relationship%20Management-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Curriculum%20Development-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Program%20Management-2E86C1?style=for-the-badge&logoColor=white" />
+</p>
+
+### 🗣️ Communication & Soft Skills
+<p>
+  <img src="https://img.shields.io/badge/Public%20Speaking-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technical%20Writing-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Listening-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emotional%20Intelligence-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Negotiation-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross--Cultural%20Communication-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facilitation-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Growth%20Mindset-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptability-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Critical%20Thinking-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resilience-E74C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Integrity-E74C3C?style=for-the-badge&logoColor=white" />
+</p>
+
+### ⚙️ Process, Strategy & Operations
+<p>
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Value%20Stream%20Mapping-8E44AD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Six%20Thinking%20Hats-8E44AD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Risk%20Management-C0392B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strategic%20Planning-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20Process%20Automation-27AE60?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Process%20Improvement-27AE60?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-C0392B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workflow%20Optimization-27AE60?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resource%20Allocation-2E86C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/508%20Accessibility-005F73?style=for-the-badge&logoColor=white" />
+</p>
 ---
 
 ## 🏆 Achievements & Certifications
@@ -134,23 +239,23 @@
 
 ## 📂 Featured Projects
 
-### ⚡ ML-Enhanced Purchase Order System
-> Built at ISC Constructors — a machine learning-powered Power Platform solution that didn't just improve a process, it *multiplied* it.
+### ⚡ Automated Purchase Order System
+> Built at ISC Constructors. The procurement process was slow, manual, and bleeding time. This Power Platform automation fixed that at scale.
 
 <p>
   <img src="https://img.shields.io/badge/Power%20Apps-Low--Code%20UI-742774?style=flat-square&logo=powerapps&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Automate-Workflow%20Engine-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Predictive%20Layer-FF6F00?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20Process%20Automation-27AE60?style=flat-square&logoColor=white" />
 </p>
 
-- 🚀 **733% productivity increase** — tripled check issuance frequency through ML-enhanced automation
-- 📈 Reduced manual processes by **30%** with integrated predictive models
-- 📊 Boosted successful bid rate by **25%** via real-time predictive bid tracking
+- 🚀 **733% productivity increase**, tripling check issuance frequency through end-to-end automation
+- 📈 Reduced manual processes by **30%** across procurement workflows
+- 📊 Boosted successful bid rate by **25%** via real-time bid tracking application
 
 ---
 
 ### 📊 Power BI Department Unification Dashboard
-> Designed at Excella — five teams speaking five different languages, now speaking one.
+> Designed at Excella. Five teams speaking five different languages, now speaking one.
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-Visualizations-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -160,12 +265,12 @@
 
 - 📉 Increased operational efficiency by **25%** across all stakeholder processes
 - 🔗 Unified **5 department silos** under standardized metrics and automated reporting
-- 🎨 Designed Figma prototypes proactively — beyond primary scope, because good enough isn't
+- 🎨 Designed Figma prototypes proactively, beyond primary scope, because good enough is not good enough
 
 ---
 
 ### 🏫 School Outcome Comparison Analysis
-> A data project with personal stakes — I homeschool my three kids, and I wanted the data to back the decision. This is what that looks like.
+> A data project with personal stakes. I homeschool my three kids, and I wanted the data to back the decision. This is what that looks like.
 
 <p>
   <img src="https://img.shields.io/badge/Python-Pandas%20%2B%20Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -173,14 +278,14 @@
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
-- 📊 Statistical comparison across **3 education models** — homeschool, public, and private
+- 📊 Statistical comparison across **3 education models**: homeschool, public, and private
 - 📈 Interactive dashboards surfacing trends in performance, attendance, and outcomes
 - 🔍 Built by a homeschool dad who believes every decision deserves a data layer
 
 ---
 
 ### 🗓️ Family Legacy Calendar System
-> For generations, someone in my family manually built a calendar every year — packed with birthdays, anniversaries, and dates stretching back decades. It was a labor of love, and a living history book. When the family elder who carried that tradition was ready to pass the baton, I didn't just take it — I automated it, so it never has to be carried by one person's hands again.
+> For generations, someone in my family manually built a calendar every year, packed with birthdays, anniversaries, and dates stretching back decades. It was a labor of love and a living history book. When the family elder who carried that tradition was ready to pass the baton, I did not just take it. I automated it, so it never has to be carried by one person's hands again.
 
 <p>
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -189,10 +294,10 @@
   <img src="https://img.shields.io/badge/Bash-Automation%20Scripts-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
-- 📜 Preserves **multi-generational family history** — dates spanning generations, now protected in code
-- ⚙️ Fully **configuration-driven** — non-developers manage it entirely through Google Sheets, no code required
+- 📜 Preserves **multi-generational family history**, dates spanning generations now protected in code
+- ⚙️ Fully **configuration-driven**, non-developers manage it entirely through Google Sheets
 - 📧 Auto-generates and emails formatted PDF calendars to the whole family on schedule
-- 🔄 Refactored from 800 → **1,497 lines** — built to be read and maintained by anyone who picks it up next
+- 🔄 Refactored from 800 to **1,497 lines**, built to be read and maintained by anyone who picks it up next
 
 ---
 
@@ -237,7 +342,7 @@
 
 ## 📫 Let's Connect
 
-<p align="center"><i>I'm always open to conversations about data, people, and problems worth solving.</i></p>
+<p align="center"><i>I am always open to conversations about data, people, and problems worth solving.</i></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/dustinguichet">
