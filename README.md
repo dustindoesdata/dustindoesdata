@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Dustin%20Guichet&fontSize=70&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Army%20Veteran%20%7C%20Builder%20of%20Things%20That%20Matter&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Dustin%20Guichet&fontSize=70&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Army%20Veteran%20%7C%20Open%20to%20Opportunities&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -19,13 +19,9 @@
 
 ## 🧭 About Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ### 👤 Who I Am
-🎯 &nbsp; **Data Scientist** where ML meets mission-driven impact<br/>
-💼 &nbsp; Senior Data Visualization Consultant @ **Excella**<br/>
+🎯 &nbsp; **Data Scientist** specializing in ML, BI, and business automation<br/>
+💼 &nbsp; **Power Platform** | **Azure** | **Python** | **Data Visualization**<br/>
 🎓 &nbsp; M.S. Data Science, **Graduated with Distinction**<br/>
 🏅 &nbsp; B.S. Information Technology, **Summa Cum Laude**<br/>
 🎖️ &nbsp; U.S. Army National Guard, SPC 91B **(2013-2021)**<br/>
@@ -33,24 +29,41 @@
 ✈️ &nbsp; Traveler at heart, always open to relocation<br/>
 📚 &nbsp; Currently leveling up: **deep learning & MLOps** via Kaggle experiments<br/>
 
-</td>
-<td valign="top" width="50%">
+---
 
 ### 🔢 By the Numbers
-| Metric | Result |
-|--------|--------|
-| Productivity increase via automation | **733%** 🚀 |
-| Operational efficiency gain | **25%** 📊 |
-| Department silos unified | **5** 🔗 |
-| Manual process reduction | **30%** 📉 |
-| HackerRank SQL Global Rank | **795,001** 🏆 |
-| Years serving in the military | **8** 🎖️ |
-| Kids building robots with me | **3** 🤖 |
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+> Numbers are how I think. Here is my life in data.
+
+**Career Impact**<br/>
+🚀 &nbsp; **733%** productivity increase via Power Platform automation<br/>
+📊 &nbsp; **25%** operational efficiency gain through Power BI dashboards<br/>
+🔗 &nbsp; **5** department silos unified into one automated reporting ecosystem<br/>
+📉 &nbsp; **30%** reduction in manual processes through integrated automation<br/>
+📈 &nbsp; **25%** increase in successful bid rate via real-time predictive tracking<br/>
+👥 &nbsp; **2x** student enrollment growth at NorthShore Robotics through data-driven curriculum<br/>
+⚡ &nbsp; **20%** improvement in issue resolution time through data-driven troubleshooting<br/>
+🏗️ &nbsp; **3** concurrent enterprise clients managed simultaneously<br/>
+
+**Education & Credentials**<br/>
+🎓 &nbsp; **2** graduate and undergraduate degrees, both with honors<br/>
+📐 &nbsp; **4.0** relevant GPA coursework across Machine Learning, Big Data, and Statistical Methods<br/>
+🏅 &nbsp; **4** professional certifications earned across platforms<br/>
+📚 &nbsp; **1** bootcamp completed in full-stack C# and .NET development<br/>
+
+**Military Service**<br/>
+🎖️ &nbsp; **8** years serving in the U.S. Army National Guard<br/>
+🔐 &nbsp; **2** security clearances held: Secret and Public Trust<br/>
+🛠️ &nbsp; **91B** MOS — Light Wheeled Vehicle Mechanic, trained to keep missions moving<br/>
+
+**Personal**<br/>
+🤖 &nbsp; **3** kids building robots with VEX Robotics kits on weekends<br/>
+🏠 &nbsp; **1** homeschool household producing 3 kids obsessed with math and logic<br/>
+📖 &nbsp; **Generations** of family history preserved in a single Python automation system<br/>
+✈️ &nbsp; **Countless** countries visited — and always open to adding more<br/>
+⛪ &nbsp; **1** church community served, countless people invested in<br/>
+
+---
 
 ### 🙋 Beyond the Code
 
@@ -58,16 +71,14 @@
 >
 > If you want to win my attention fast, talk to me about **broken workflows, unsolved problems, or something you're learning.**
 
-&nbsp;
+**⛪ Community**<br/>
+Church leader focused on building people up through healthy communication and relationships. Currently recommending *Keep Your Love On* by Danny Silk to anyone who will listen.<br/>
 
-| ⛪ Community | 📚 How I Think | 🗣️ How I Lead |
-|:---:|:---:|:---:|
-| Church leader focused on building people up | **Value Stream Mapping** to eliminate waste in team processes | Public speaking energizes me |
-| Passionate about healthy communication and relationships | **Six Thinking Hats** for balanced, efficient meetings | Reading: *Keep Your Love On* by Danny Silk |
+**📚 How I Think**<br/>
+**Value Stream Mapping** to cut waste in team workflows. **Six Thinking Hats** to run balanced, efficient meetings where every voice is heard.<br/>
 
-</td>
-</tr>
-</table>
+**🗣️ How I Lead**<br/>
+Public speaking energizes me. I light up in front of a room and believe that clear communication is the most underrated technical skill in the industry.<br/>
 
 ---
 
