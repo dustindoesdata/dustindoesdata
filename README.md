@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dustindoesdata&style=for-the-badge&color=0e75b6" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Data%20Visualization-58a6ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clearance-Public%20Trust-2ea043?style=for-the-badge" />
 </p>
@@ -64,13 +64,15 @@ dustin = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=6" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20HackerRank-SQL%20Rank%20%233%20Worldwide-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Rank%20%233-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/M.S.%20Data%20Science-Distinction-gold?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Army%20National%20Guard-8%20Years-4B5320?style=for-the-badge&logo=army&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20M.S.%20Data%20Science-Graduated%20with%20Distinction-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E–%20U.S.%20Army%20National%20Guard-8%20Years%20of%20Service-4B5320?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%94%92%20Security%20Clearance-Public%20Trust%20(formerly%20Secret)-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Excella-Senior%20Data%20Viz%20Consultant-E8352A?style=for-the-badge" />
 </p>
 
 ---
@@ -124,36 +126,36 @@ dustin = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dustindoesdata&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustindoesdata&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com/?user=dustindoesdata&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
 </p>
+
+
 
 ---
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/output/github-snake-dark.svg" />
 </p>
-
-> *To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.*
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dustinguichet">
+  <a href="https://linkedin.com/in/dustindoesdata">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/profile/dustindoesdata">
+  <a href="https://www.hackerrank.com/dustindoesdata">
     <img src="https://img.shields.io/badge/HackerRank-Follow-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="mailto:dustindoesdata@gmail.com">
+  <a href="mailto:youremail@email.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
