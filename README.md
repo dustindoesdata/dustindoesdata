@@ -21,7 +21,7 @@
 
 ## 🧭 About Me
 
-I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. Through all of it: a husband, a father, a lifelong learner, and someone who genuinely believes the best solution to any problem starts with the right question.
+I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. Through all of it: a follower of Jesus, a husband, a father, a lifelong learner, and someone who genuinely believes the best solution to any problem starts with the right question.
 
 I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in Information Technology (Summa Cum Laude)**. I specialize in **predictive analytics, business intelligence, and enterprise automation** across the full data lifecycle, from raw pipeline to executive decision. My technical home is the **Microsoft data stack** (Fabric, Power BI, Power Platform, Azure) paired with **Python and SQL**, but I am fluent across tools and focused on outcomes over platforms.
 
@@ -62,7 +62,7 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 📐 &nbsp; **15.8%** average portfolio ROI delivered across a personal book of business<br/>
 🤝 &nbsp; **30** financial advisory clients acquired entirely through cold outreach<br/>
 📋 &nbsp; **1** dedicated CRM managed door-to-door, zero clients allowed to fall through the cracks<br/>
-📞 &nbsp; **20+** years of combined customer-facing experience across industries<br/>
+📞 &nbsp; **20+** years of combined customer-facing experience from times where multiple jobs was the only option, across industries<br/>
 🏢 &nbsp; **4** industries served as advisor, consultant, or developer: construction, federal, finance, telecom<br/>
 
 **🎓 Education, Coaching & Training**<br/>
@@ -100,10 +100,9 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 👩‍❤️‍👨 &nbsp; **1** wife: the best decision I ever made<br/>
 👧👦👦 &nbsp; **3** kids, all independently obsessed with math and logic<br/>
 🐶 &nbsp; **1** dog: chaos in fur form, loved unconditionally<br/>
-🍽️ &nbsp; **6 to 8** tables managed simultaneously every shift at Texas Roadhouse, parallel project management at scale<br/>
+🍽️ &nbsp; **3 to 5** tables managed simultaneously every shift at Texas Roadhouse, parallel project management at scale<br/>
 📖 &nbsp; **Generations** of family history now preserved in a single Python automation system<br/>
 ✈️ &nbsp; **Multiple** countries visited, always ready to add more<br/>
-🎮 &nbsp; **1** ongoing argument with myself about whether data science or Pokédex completion is the more impressive achievement<br/>
 
 </td></tr></table>
 
@@ -115,7 +114,7 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 
 > If you want to win my attention fast, talk to me about **broken workflows, unsolved problems, or something you're learning.**
 
-I am a husband, dog dad, and homeschooling father of three kids who have all independently fallen in love with mathematics and logic. Our favorite weekend activity is building robots with **VEX Robotics** kits. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable humans.
+I am a follower of Jesus, husband, father of three, and dog dad. Our favorite weekend activity is building robots with **VEX Robotics** kits, hiking, chuck-e-cheese, or going to the park. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable humans.
 
 **🎤 How I Communicate**<br/>
 I lead with questions. On a client call, in front of a room, with my team, my first move is always to understand before I explain. Public speaking energizes me because I believe the best insights are unlocked when the right question lands at the right moment.<br/>
