@@ -21,13 +21,13 @@
 
 ## 🧭 About Me
 
-I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. And through all of it — a husband, a father, a lifelong learner, and someone who genuinely believes the best solution to any problem starts with the right question.
+I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. Through all of it: a husband, a father, a lifelong learner, and someone who genuinely believes the best solution to any problem starts with the right question.
 
-I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in Information Technology (Summa Cum Laude)**. I specialize in **Python, SQL, Power BI, Power Platform, and Azure** — and I bring every layer of my background into how I think about data, people, and systems.
+I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in Information Technology (Summa Cum Laude)**. I specialize in **predictive analytics, business intelligence, and enterprise automation** across the full data lifecycle, from raw pipeline to executive decision. My technical home is the **Microsoft data stack** (Fabric, Power BI, Power Platform, Azure) paired with **Python and SQL**, but I am fluent across tools and focused on outcomes over platforms.
 
 🎯 &nbsp; Turning messy data into decisions that move organizations forward<br/>
-🔐 &nbsp; **Public Trust** Clearance (formerly Secret) — open to cleared roles<br/>
-✈️ &nbsp; Open to relocation — the right opportunity is worth moving for<br/>
+🔐 &nbsp; **Public Trust** Clearance (formerly Secret), open to cleared roles<br/>
+✈️ &nbsp; Open to relocation, the right opportunity is worth moving for<br/>
 🎤 &nbsp; Public speaker who **leads with questions** before answers<br/>
 📚 &nbsp; Currently leveling up in **deep learning & MLOps** via Kaggle<br/>
 ⛪ &nbsp; **12 years** as a Christian, **6 years** in active church leadership<br/>
@@ -41,60 +41,69 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 
 ## 🔢 By the Numbers
 
-> This is my life in data — professional, personal, and everything in between.
+> This is my life in data: professional, personal, and everything in between.
 
 **⚡ Enterprise & Technical Impact**<br/>
 🚀 &nbsp; **733%** productivity increase via Power Platform procurement automation<br/>
 📈 &nbsp; **35%** increase in won bids through real-time bid tracking applications<br/>
 📉 &nbsp; **30%** reduction in manual processes across operations<br/>
 📊 &nbsp; **25%** operational efficiency gain through unified Power BI reporting<br/>
-🔗 &nbsp; **5** department silos unified into one reporting ecosystem<br/>
+🔗 &nbsp; **5** department silos unified into one automated reporting ecosystem<br/>
 🏗️ &nbsp; **3+** enterprise apps built end-to-end with API and stored procedure integration<br/>
 ✈️ &nbsp; **1** company aircraft flight approval system fully automated<br/>
-🔄 &nbsp; **800 → 1,497 lines** — a family automation system refactored for generational maintainability<br/>
+🔄 &nbsp; **800 to 1,497 lines**: a family automation system refactored for generational maintainability<br/>
 💾 &nbsp; **1** Salesforce CRM managed across an active book of business<br/>
+🖥️ &nbsp; **1** proof-of-concept dashboard delivered at NUBITZ using JavaScript and Splunk<br/>
+🔌 &nbsp; **Custom APIs** designed and integrated to connect live databases to Power Platform apps<br/>
+📐 &nbsp; **2** degrees completed while working full-time throughout both programs<br/>
 
 **💰 Finance & Sales**<br/>
 💼 &nbsp; **$50M+** in managed client assets as a licensed Financial Advisor at New York Life<br/>
-📐 &nbsp; **15.8%** average portfolio ROI delivered for clients<br/>
+📐 &nbsp; **15.8%** average portfolio ROI delivered across a personal book of business<br/>
 🤝 &nbsp; **30** financial advisory clients acquired entirely through cold outreach<br/>
-📋 &nbsp; **1** full CRM managed door-to-door, zero clients allowed to fall through the cracks<br/>
+📋 &nbsp; **1** dedicated CRM managed door-to-door, zero clients allowed to fall through the cracks<br/>
+📞 &nbsp; **20+** years of combined customer-facing experience across industries<br/>
+🏢 &nbsp; **4** industries served as advisor, consultant, or developer: construction, federal, finance, telecom<br/>
 
 **🎓 Education, Coaching & Training**<br/>
-🌍 &nbsp; **Top 2%** globally at VEX Robotics Worlds — **30,000+** competing students<br/>
-🥉 &nbsp; **Top 3** in the state of Louisiana before advancing to the world stage<br/>
-👦 &nbsp; **4** students coached from first build to world-stage competitors<br/>
+🌍 &nbsp; **Top 2%** globally at VEX Robotics Worlds, competing against **30,000+** students<br/>
+👦 &nbsp; **4** students coached from their very first build to world-stage competitors<br/>
 📈 &nbsp; **200%** student enrollment growth through curriculum redesign at NorthShore Robotics<br/>
 📋 &nbsp; **30%** improvement in program delivery efficiency as Executive Director<br/>
-👩‍🏫 &nbsp; **100%** staffing growth — built a coaching team from the ground up<br/>
-🍽️ &nbsp; **15+** employees trained at Texas Roadhouse — every new hire during my tenure<br/>
-📡 &nbsp; **7+** new team members onboarded and mentored at AT&T<br/>
-⏱️ &nbsp; **~1,080 hours** of immersive engineering training at the Woz U bootcamp<br/>
-🧠 &nbsp; **Design Thinking** certified through AT&T's internal platform<br/>
+👩‍🏫 &nbsp; **100%** staffing growth: built an entire coaching team from scratch<br/>
+🍽️ &nbsp; **15+** employees trained at Texas Roadhouse, every new hire during my tenure<br/>
+📡 &nbsp; **7+** team members onboarded and mentored at AT&T<br/>
+⏱️ &nbsp; **~1,080 hours** of immersive engineering training across the Woz U bootcamp<br/>
+📚 &nbsp; **10+** technology domains covered at Woz U: C#, ASP.NET, React, Angular, SQL, DevOps, Agile, Cloud, UI/UX, Web Services<br/>
+🧠 &nbsp; **Design Thinking** certified through AT&T's professional development platform<br/>
+🎓 &nbsp; **3** technical certifications earned through freeCodeCamp<br/>
+🤖 &nbsp; **3** kids currently homeschooled, all tracking ahead in mathematics and logic<br/>
 
 **🎖️ Military & Service**<br/>
 🪖 &nbsp; **8** years in the U.S. Army National Guard<br/>
-🔐 &nbsp; **2** security clearances: Secret and Public Trust<br/>
+🔐 &nbsp; **2** security clearances held: Secret and Public Trust<br/>
 🚨 &nbsp; **Led rescue missions** in life-threatening flood deployments with an engineering brigade<br/>
+🛠️ &nbsp; **91B** MOS: maintained vehicles and equipment so missions never stopped<br/>
 
 **⛪ Faith & Community**<br/>
 ✝️ &nbsp; **12 years** walking as a Christian<br/>
 ⛪ &nbsp; **6 years** in active church leadership and pastoral care<br/>
 📖 &nbsp; **11 regulars** preached to and discipled at NorthShore Behavioral Health<br/>
-✈️ &nbsp; **2** overseas mission trips<br/>
+✈️ &nbsp; **2** overseas mission trips completed<br/>
 🌍 &nbsp; **12+** community outreach programs served and led<br/>
-💰 &nbsp; Managed a **benevolence budget** — making financial decisions for people at their most vulnerable<br/>
-🫂 &nbsp; **Countless** follow-ups with people who walked away — the bridge was always kept open<br/>
+💰 &nbsp; Managed a **benevolence budget**, making financial decisions for people at their most vulnerable<br/>
+🫂 &nbsp; **Countless** follow-ups with people who walked away: the bridge was always kept open<br/>
+📖 &nbsp; **1 commission** anchoring it all: *"Go, make disciples of all nations"* Matthew 28:19<br/>
 
 **🎮 The Human Behind the Data**<br/>
-👾 &nbsp; **1,025** Pokémon caught — and counting<br/>
-👩‍❤️‍👨 &nbsp; **1** wife — the best decision I ever made<br/>
-👧👦👦 &nbsp; **3** kids — all independently obsessed with math and logic<br/>
-🐶 &nbsp; **1** dog — chaos in fur form, loved unconditionally<br/>
-📖 &nbsp; **Generations** of family history preserved in a single Python automation system<br/>
-✈️ &nbsp; **Multiple** countries visited — and always ready to add more<br/>
-🥋 &nbsp; **15 years** of martial arts — Taekwondo, Judo, and Brazilian Jiu-Jitsu<br/>
-🏆 &nbsp; Competed at the **Louisiana state level** — discipline refined through competition<br/>
+👾 &nbsp; **1,025** Pokémon caught, and counting<br/>
+👩‍❤️‍👨 &nbsp; **1** wife: the best decision I ever made<br/>
+👧👦👦 &nbsp; **3** kids, all independently obsessed with math and logic<br/>
+🐶 &nbsp; **1** dog: chaos in fur form, loved unconditionally<br/>
+🍽️ &nbsp; **6 to 8** tables managed simultaneously every shift at Texas Roadhouse, parallel project management at scale<br/>
+📖 &nbsp; **Generations** of family history now preserved in a single Python automation system<br/>
+✈️ &nbsp; **Multiple** countries visited, always ready to add more<br/>
+🎮 &nbsp; **1** ongoing argument with myself about whether data science or Pokédex completion is the more impressive achievement<br/>
 
 </td></tr></table>
 
@@ -109,10 +118,10 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 I am a husband, dog dad, and homeschooling father of three kids who have all independently fallen in love with mathematics and logic. Our favorite weekend activity is building robots with **VEX Robotics** kits. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable humans.
 
 **🎤 How I Communicate**<br/>
-I lead with questions. On a client call, in front of a room, with my team — my first move is always to understand before I explain. Public speaking energizes me because I believe the best insights are unlocked when the right question lands at the right moment.<br/>
+I lead with questions. On a client call, in front of a room, with my team, my first move is always to understand before I explain. Public speaking energizes me because I believe the best insights are unlocked when the right question lands at the right moment.<br/>
 
 **⛪ Community**<br/>
-Six years in church leadership, two overseas mission trips, and 12+ community outreach programs — service is not something I do on weekends, it is how I am wired. Currently recommending *Keep Your Love On* by Danny Silk to anyone who will listen.<br/>
+Six years in church leadership, two overseas mission trips, and 12+ community outreach programs, service is not something I do on weekends, it is how I am wired. Currently recommending *Keep Your Love On* by Danny Silk to anyone who will listen.<br/>
 
 **📚 How I Think**<br/>
 **Value Stream Mapping** to cut waste. **Six Thinking Hats** for balanced meetings. **Socratic Method** for teaching. The best way to make something stick is to let the other person discover it.<br/>
@@ -126,7 +135,7 @@ Six years in church leadership, two overseas mission trips, and 12+ community ou
 ## 🗺️ Professional Journey
 
 <details>
-<summary><b>Click to read the full story — every chapter matters</b></summary>
+<summary><b>Click to read the full story, every chapter matters</b></summary>
 <br/>
 
 > I did not take a straight line to data science. I took the most interesting one available.
@@ -134,29 +143,29 @@ Six years in church leadership, two overseas mission trips, and 12+ community ou
 🪖 &nbsp; **Army National Guard, 91B** *(2013–2021)*<br/>
 Deployed in flood crisis response with an engineering brigade. Led and orchestrated rescue missions in life-threatening conditions. Held peers accountable to soldier standards. Kept vehicles mission-ready when failure was not an option.<br/>
 
-🍽️ &nbsp; **Server & Trainer — Texas Roadhouse** *(2015–2018)*<br/>
-Texas Roadhouse is not a restaurant — it is a high-velocity, high-accountability operation. Every shift meant managing 6–8 simultaneous tables as independent projects: reading each customer, personalizing the experience, delivering quality-controlled products on a tight deadline, and rotating the floor without letting anything slip. I trained every new employee — 15+ people — hired during my tenure. In a data context: parallel process management, QA, and onboarding under pressure — just with food instead of code.<br/>
+🍽️ &nbsp; **Server & Trainer, Texas Roadhouse** *(2015–2018)*<br/>
+Texas Roadhouse is not a restaurant, it is a high-velocity, high-accountability operation. Every shift meant managing 6–8 simultaneous tables as independent projects: reading each customer, personalizing the experience, delivering quality-controlled products on a tight deadline, and rotating the floor without letting anything slip. I trained every new employee, 15+ people, hired during my tenure. In a data context: parallel process management, QA, and onboarding under pressure, just with food instead of code.<br/>
 
-⛪ &nbsp; **Pastoral Care — Church of the King** *(2015–2018)*<br/>
-Three years serving a nondenominational congregation under the commission to *go and make disciples* — not a title, a daily practice. I led care teams, visited the sick, sat with grieving families, and managed a benevolence budget that determined who received financial support in their most vulnerable moments. I preached to 11 regulars at NorthShore Behavioral Health and led 12+ community outreach programs. Completed 2 overseas mission trips. Conflict was not avoided — it was engaged with patience, gentleness, and a long view of restoration. The fruits refined here are not soft skills. They are load-bearing ones.<br/>
+⛪ &nbsp; **Pastoral Care, Church of the King** *(2015–2018)*<br/>
+Three years serving a nondenominational congregation under the commission to *go and make disciples*, not a title, a daily practice. I led care teams, visited the sick, sat with grieving families, and managed a benevolence budget that determined who received financial support in their most vulnerable moments. I preached to 11 regulars at NorthShore Behavioral Health and led 12+ community outreach programs. Completed 2 overseas mission trips. Conflict was not avoided, it was engaged with patience, gentleness, and a long view of restoration. The fruits refined here are not soft skills. They are load-bearing ones.<br/>
 
-💰 &nbsp; **Financial Advisor — New York Life** *(2018–2019)*<br/>
+💰 &nbsp; **Financial Advisor, New York Life** *(2018–2019)*<br/>
 Built a book of 30 clients from cold outreach alone. Managed $50M+ in assets at 15.8% ROI. Diagnosed financial pain points, built long-term plans, and coached clients through decisions that shaped their futures. Managed the entire book through a Salesforce CRM. Every engagement started with a question.<br/>
 
-📡 &nbsp; **Business Specialist — AT&T** *(2019–2021)*<br/>
-Subject matter expert for local business clients. Navigated entire organizations to understand the full picture before proposing any solution. Onboarded and mentored 7+ team members. Earned Design Thinking certification through AT&T's internal platform — the formal framework for what I had been doing instinctively for years.<br/>
+📡 &nbsp; **Business Specialist, AT&T** *(2019–2021)*<br/>
+Subject matter expert for local business clients. Navigated entire organizations to understand the full picture before proposing any solution. Onboarded and mentored 7+ team members. Earned Design Thinking certification through AT&T's internal platform, the formal framework for what I had been doing instinctively for years.<br/>
 
 💻 &nbsp; **Software Engineering** *(2021–2022)*<br/>
-JavaScript dashboard and custom APIs at NUBITZ. Then a 12-hour-per-day bootcamp at Woz U: C#, ASP.NET, React, Angular, DevOps, Agile, SQL — built from the ground up. Followed by an Infosys engineering apprenticeship advancing Python and Java through world-class training programs.<br/>
+JavaScript dashboard and custom APIs at NUBITZ. Then a 12-hour-per-day bootcamp at Woz U: C#, ASP.NET, React, Angular, DevOps, Agile, SQL, built from the ground up. Followed by an Infosys engineering apprenticeship advancing Python and Java through world-class training programs.<br/>
 
-⚙️ &nbsp; **Application Developer — ISC Constructors** *(2022–2024)*<br/>
-733% productivity gains. A suite of Power Platform applications that changed how the entire company ran — procurement automation, job lifecycle management, flight request systems, KPI dashboards, and full database integration via API and stored procedures.<br/>
+⚙️ &nbsp; **Application Developer, ISC Constructors** *(2022–2024)*<br/>
+733% productivity gains. A suite of Power Platform applications that changed how the entire company ran, procurement automation, job lifecycle management, flight request systems, KPI dashboards, and full database integration via API and stored procedures.<br/>
 
-🤖 &nbsp; **Robotics Coach & Executive Director — NorthShore Robotics** *(2023–2024)*<br/>
+🤖 &nbsp; **Robotics Coach & Executive Director, NorthShore Robotics** *(2023–2024)*<br/>
 Coached 4 students to the top 2% globally at VEX Robotics Worlds. Then stepped into Executive Director: built a curriculum from scratch using Socratic Method, Six Hats, and Agile principles. Doubled enrollment. Hired and onboarded a full coaching staff. Built something that outlasted my tenure.<br/>
 
 📊 &nbsp; **Data Visualization Consultant** *(2024)*<br/>
-Enterprise Power BI, Power Platform, and Azure. Unified 5 department silos. Delivered 25% operational efficiency gains. Designed Figma prototypes beyond original scope — because good enough never is.<br/>
+Enterprise Power BI, Power Platform, and Azure. Unified 5 department silos. Delivered 25% operational efficiency gains. Designed Figma prototypes beyond original scope, because good enough never is.<br/>
 
 🎓 &nbsp; **M.S. Data Science, Graduated with Distinction** *(2025)*<br/>
 The credential that formalizes what the career already proved.<br/>
@@ -452,7 +461,7 @@ The credential that formalizes what the career already proved.<br/>
 ## 📂 Featured Projects
 
 <details>
-<summary><b>⚡ ISC Constructors — Power Platform App Suite</b></summary>
+<summary><b>⚡ ISC Constructors, Power Platform App Suite</b></summary>
 <br/>
 
 > The operations team was drowning in manual processes. Over two years I built a suite of interconnected applications that changed how the entire company ran.
@@ -512,7 +521,7 @@ The credential that formalizes what the career already proved.<br/>
 <summary><b>🗓️ Family Legacy Calendar System</b></summary>
 <br/>
 
-> For generations, someone in my family manually built a calendar every year, packed with birthdays, anniversaries, and dates stretching back decades. When the family elder who carried that tradition was ready to pass the baton, I automated it — so it never has to be carried by one person's hands again.
+> For generations, someone in my family manually built a calendar every year, packed with birthdays, anniversaries, and dates stretching back decades. When the family elder who carried that tradition was ready to pass the baton, I automated it, so it never has to be carried by one person's hands again.
 
 <p>
   <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -522,7 +531,7 @@ The credential that formalizes what the career already proved.<br/>
 </p>
 
 - 📜 Preserves **multi-generational family history** in code
-- ⚙️ Fully **configuration-driven** via Google Sheets — no coding required to maintain
+- ⚙️ Fully **configuration-driven** via Google Sheets, no coding required to maintain
 - 📧 Auto-generates and emails formatted PDF calendars to the whole family on schedule
 - 🔄 Refactored from 800 to **1,497 lines**, built for anyone who picks it up next
 
