@@ -17,6 +17,8 @@
 
 ---
 
+<table width="100%" bgcolor="#0d1f35"><tr><td>
+
 ## 🧭 About Me
 
 🎯 &nbsp; **Data Scientist** specializing in ML, BI, and business automation<br/>
@@ -29,60 +31,64 @@
 ✈️ &nbsp; Traveler at heart, always open to relocation<br/>
 📚 &nbsp; Currently leveling up: **deep learning & MLOps** via Kaggle experiments<br/>
 
-<details>
-<summary><b>🔢 By the Numbers — click to expand</b></summary>
-<br/>
+</td></tr></table>
+
+---
+
+<table width="100%" bgcolor="#0d2818"><tr><td>
+
+## 🔢 By the Numbers
 
 > Numbers are how I think. Here is my life in data.
 
 **Enterprise & Technical Impact**<br/>
 🚀 &nbsp; **733%** productivity increase via Power Platform automation of procurement workflows<br/>
-📈 &nbsp; **35%** increase in won bids through real-time tracking applications<br/>
+📈 &nbsp; **35%** increase in won bids through real-time tracking and bid management applications<br/>
 📉 &nbsp; **30%** reduction in manual processes across procurement and operations<br/>
 📊 &nbsp; **25%** operational efficiency gain through unified Power BI reporting<br/>
 🔗 &nbsp; **5** department silos unified into a single automated reporting ecosystem<br/>
-🏗️ &nbsp; **3+** enterprise-grade applications built end-to-end with API and stored procedure integration<br/>
+🏗️ &nbsp; **3+** enterprise-grade Power Platform apps built end-to-end with API and stored procedure integration<br/>
+✈️ &nbsp; **1** company aircraft flight approval system fully automated — eliminating manual strain on the entire flight team<br/>
+🔄 &nbsp; **800 → 1,497 lines** — a family automation system refactored for generational maintainability<br/>
 
 **Finance & Advisory**<br/>
 💼 &nbsp; **$50M+** in managed client assets as a licensed Financial Advisor at New York Life<br/>
-📐 &nbsp; **15.8%** average ROI delivered across a personal book of financial clients<br/>
-🤝 &nbsp; **30** financial advisory clients acquired and served independently from cold outreach<br/>
+📐 &nbsp; **15.8%** average portfolio ROI delivered for clients<br/>
+🤝 &nbsp; **30** clients built from zero — every single one acquired through cold outreach<br/>
+📋 &nbsp; **1** paper CRM managed during door-to-door sales to ensure zero client fell through the cracks<br/>
 
 **Education & Robotics**<br/>
-🤖 &nbsp; **200%** student enrollment increase at NorthShore Robotics through curriculum redesign<br/>
-🏆 &nbsp; **Top 3** in the state of Louisiana in competitive robotics<br/>
 🌍 &nbsp; **Top 2%** in the world at VEX Robotics Worlds out of **30,000+** competing students<br/>
-👦 &nbsp; **4** students coached from beginner to world-stage competitors<br/>
+🥉 &nbsp; **Top 3** in the state of Louisiana before advancing to the world stage<br/>
+👦 &nbsp; **4** students coached from first-time builders to world-stage engineers<br/>
+📈 &nbsp; **200%** student enrollment growth at NorthShore Robotics through curriculum redesign<br/>
 📋 &nbsp; **30%** improvement in program delivery efficiency as Executive Director<br/>
-👩‍🏫 &nbsp; **100%** staffing growth through hiring and onboarding under clear performance frameworks<br/>
+👩‍🏫 &nbsp; **100%** staffing growth — built a coaching team from the ground up<br/>
+🎓 &nbsp; **2** degrees, both with honors — Summa Cum Laude B.S. and Distinction M.S.<br/>
+⏱️ &nbsp; **~1,080 hours** of immersive engineering training at the Woz U bootcamp (12 hrs/day)<br/>
+🧠 &nbsp; **Design Thinking** certified through AT&T's internal professional development platform<br/>
 
-**Credentials & Training**<br/>
-🎓 &nbsp; **2** degrees earned with honors — M.S. Data Science and B.S. Information Technology<br/>
-⏱️ &nbsp; **12 hours/day** — intensity of the Woz U .NET bootcamp that forged the engineering foundation<br/>
-🧠 &nbsp; **Design Thinking** certified through AT&T's professional development platform<br/>
-🏅 &nbsp; **4+** professional certifications earned across development and data platforms<br/>
-
-**Military Service**<br/>
+**Military & Service**<br/>
 🎖️ &nbsp; **8** years serving in the U.S. Army National Guard<br/>
 🔐 &nbsp; **2** security clearances held: Secret and Public Trust<br/>
-🛠️ &nbsp; **91B** MOS — kept equipment mission-ready, deployed in crisis response to flooding emergencies<br/>
 🚨 &nbsp; **Led life-threatening rescue missions** during active flood deployment with an engineering brigade<br/>
+🛠️ &nbsp; **91B** MOS — kept equipment mission-ready when failure was not an option<br/>
 
-**Before the Keyboard**<br/>
-🥋 &nbsp; **15 years** of competitive martial arts — Taekwondo, Judo, Brazilian Jiu-Jitsu<br/>
-🏅 &nbsp; **Competed at the state level** in Louisiana — discipline, iteration, and continuous improvement<br/>
-⛪ &nbsp; **3+ years** of active pastoral care — leading teams, serving the sick, and walking families through crisis<br/>
+**Character & Calling**<br/>
+⛪ &nbsp; **3+ years** of active pastoral care — leading teams, visiting the sick, walking families through crisis<br/>
+💰 &nbsp; Managed a **benevolence budget**, making high-stakes financial decisions for people at their most vulnerable<br/>
 🫂 &nbsp; **Countless** follow-ups with people who walked away — the bridge was always kept open<br/>
 📖 &nbsp; **1 commission** that shaped everything: *"Go, make disciples of all nations"* — Matthew 28:19<br/>
-💰 &nbsp; Managed a **benevolence budget**, making high-stakes financial decisions for people in their most vulnerable moments<br/>
-🤖 &nbsp; **3** homeschooled kids, all independently obsessed with math and logic<br/>
-📖 &nbsp; **Generations** of family history preserved and automated in a single Python system<br/>
+🍽️ &nbsp; Trained **every new employee** hired during tenure at Texas Roadhouse — parallel process management at scale<br/>
+🌳 &nbsp; **15 years** of landscaping — examined land, planned every job, executed everything from tree removal to French drains<br/>
 
-</details>
+</td></tr></table>
 
-<details>
-<summary><b>🙋 Beyond the Code — click to expand</b></summary>
-<br/>
+---
+
+<table width="100%" bgcolor="#1a0d2e"><tr><td>
+
+## 🙋 Beyond the Code
 
 > I'm a husband, dog dad, and homeschooling father of **three kids** who have all independently fallen in love with mathematics and logic. Our favorite weekend activity is building robots together with **VEX Robotics** kits. The same data-driven thinking I bring to enterprise systems is what I bring to raising curious, capable humans.
 >
@@ -97,20 +103,15 @@ Church leader focused on building people up through healthy communication and re
 **📚 How I Think**<br/>
 **Value Stream Mapping** to cut waste in team workflows. **Six Thinking Hats** to run balanced, efficient meetings where every voice is heard. The **Socratic Method** for teaching, because telling someone the answer is the least effective way to make it stick.<br/>
 
-</details>
+</td></tr></table>
 
 ---
 
+<table width="100%" bgcolor="#2e0d1a"><tr><td>
+
 ## 🗺️ Professional Journey
 
-<details>
-<summary><b>Click to read the full story</b></summary>
-<br/>
-
 > I did not take a straight line to data science. I took the most interesting one available.
-
-🥋 &nbsp; **Martial Arts** *(1998–2013)*<br/>
-Fifteen years of deliberate practice — Taekwondo, Judo, and Brazilian Jiu-Jitsu — training 3–5 times per week. Competed at the state level in Louisiana, studying opponents to continuously refine strategy. Every concept I apply to iterative development started here.<br/>
 
 🪖 &nbsp; **Army National Guard, 91B** *(2013–2021)*<br/>
 Deployed in flood crisis response with an engineering brigade. Led and orchestrated rescue missions in life-threatening conditions. Held peers accountable to soldier standards. Kept vehicles mission-ready when equipment failure was not an option.<br/>
@@ -119,7 +120,7 @@ Deployed in flood crisis response with an engineering brigade. Led and orchestra
 Texas Roadhouse is not a restaurant — it is a high-velocity, high-accountability operation. Every shift meant managing 6–8 simultaneous tables as independent projects: reading each customer, personalizing the experience, delivering quality-controlled products on a tight deadline, and rotating the floor without letting anything slip. I trained every new employee hired during my tenure. In a data context, this is parallel process management, QA, and onboarding under pressure — just with food instead of code.<br/>
 
 ⛪ &nbsp; **Pastoral Care — Church of the King** *(2015–2018)*<br/>
-Three years serving a nondenominational congregation under the commission to *go and make disciples* — not a title, a daily practice. I led care teams, visited the sick, sat with grieving families, and managed a benevolence budget that determined who received financial support in their most vulnerable moments. I learned to hold space for people in crisis without rushing to fix, and to follow up with those who walked away until the bridge was rebuilt. Conflict was not avoided — it was engaged with patience, gentleness, and a long view of restoration. Every hard conversation, every hospital room, every budget decision was a test of character under conditions that do not allow for shortcuts. The fruits refined here — patience, faithfulness, self-control, compassion — are not soft skills. They are load-bearing ones. Every team I have led since has been shaped by what I learned in that season.<br/>
+Three years serving a nondenominational congregation under the commission to *go and make disciples* — not a title, a daily practice. I led care teams, visited the sick, sat with grieving families, and managed a benevolence budget that determined who received financial support in their most vulnerable moments. I learned to hold space for people in crisis without rushing to fix, and to follow up with those who walked away until the bridge was rebuilt. Conflict was not avoided — it was engaged with patience, gentleness, and a long view of restoration. The fruits refined here — patience, faithfulness, self-control, compassion — are not soft skills. They are load-bearing ones. Every team I have led since has been shaped by what I learned in that season.<br/>
 
 💰 &nbsp; **Financial Advisor — New York Life** *(2018–2019)*<br/>
 Built a book of 30 clients from cold outreach alone. Managed $50M+ in assets with a 15.8% ROI. Diagnosed financial pain points, built long-term plans, and coached clients through decisions that shaped their futures. Every engagement started with a question.<br/>
@@ -142,15 +143,26 @@ Enterprise Power BI, Power Platform, and Azure. Unified 5 department silos into 
 🎓 &nbsp; **M.S. Data Science, Graduated with Distinction** *(2025)*<br/>
 The credential that formalizes what the career already proved.<br/>
 
-</details>
+</td></tr></table>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dustindoesdata&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/output/github-snake-dark.svg" />
+</p>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<details>
-<summary><b>🔬 Data Science & Machine Learning — click to expand</b></summary>
-<br/>
+<table width="100%" bgcolor="#0d1f35"><tr><td>
+
+### 🔬 Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -168,11 +180,12 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/Classification%20Models-E74C3C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
-</details>
 
-<details>
-<summary><b>📦 Python & Data Ecosystem — click to expand</b></summary>
-<br/>
+</td></tr></table>
+
+<table width="100%" bgcolor="#0d2800"><tr><td>
+
+### 📦 Python & Data Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -183,11 +196,12 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
-</details>
 
-<details>
-<summary><b>🗄️ Data Engineering & Databases — click to expand</b></summary>
-<br/>
+</td></tr></table>
+
+<table width="100%" bgcolor="#2e1a00"><tr><td>
+
+### 🗄️ Data Engineering & Databases
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Warehousing-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -196,13 +210,15 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stored%20Procedures-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-</details>
 
-<details>
-<summary><b>📊 Business Intelligence & Visualization — click to expand</b></summary>
-<br/>
+</td></tr></table>
+
+<table width="100%" bgcolor="#2e0000"><tr><td>
+
+### 📊 Business Intelligence & Visualization
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
@@ -214,11 +230,12 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/Dashboard%20Design-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Storytelling-58a6ff?style=for-the-badge&logoColor=white" />
 </p>
-</details>
 
-<details>
-<summary><b>☁️ Cloud, DevOps & Engineering — click to expand</b></summary>
-<br/>
+</td></tr></table>
+
+<table width="100%" bgcolor="#00172e"><tr><td>
+
+### ☁️ Cloud, DevOps & Engineering
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
@@ -228,11 +245,12 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
-</details>
 
-<details>
-<summary><b>💻 Software Development — click to expand</b></summary>
-<br/>
+</td></tr></table>
+
+<table width="100%" bgcolor="#1a001a"><tr><td>
+
+### 💻 Software Development
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -245,11 +263,12 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/REST%20APIs-005F73?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
-</details>
 
-<details>
-<summary><b>🎖️ Military Operations & Leadership — click to expand</b></summary>
-<br/>
+</td></tr></table>
+
+<table width="100%" bgcolor="#1a2000"><tr><td>
+
+### 🎖️ Military Operations & Leadership
 <p>
   <img src="https://img.shields.io/badge/Mission%20Planning-4B5320?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Tactical%20Decision%20Making-4B5320?style=for-the-badge&logoColor=white" />
@@ -264,11 +283,12 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/Cross--Functional%20Coordination-4B5320?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Accountability%20Culture-4B5320?style=for-the-badge&logoColor=white" />
 </p>
-</details>
 
-<details>
-<summary><b>🧠 Leadership & People Development — click to expand</b></summary>
-<br/>
+</td></tr></table>
+
+<table width="100%" bgcolor="#001a2e"><tr><td>
+
+### 🧠 Leadership & People Development
 <p>
   <img src="https://img.shields.io/badge/Servant%20Leadership-2E86C1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Team%20Building-2E86C1?style=for-the-badge&logoColor=white" />
@@ -287,11 +307,33 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/Client%20Acquisition-2E86C1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Pastoral%20Care-2E86C1?style=for-the-badge&logoColor=white" />
 </p>
-</details>
 
-<details>
-<summary><b>🗣️ Communication & Soft Skills — click to expand</b></summary>
-<br/>
+</td></tr></table>
+
+<table width="100%" bgcolor="#2a0a2a"><tr><td>
+
+### ⛪ Faith, Character & Pastoral Skills
+<p>
+  <img src="https://img.shields.io/badge/Discipleship-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biblical%20Counseling-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grief%20Support-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crisis%20Counseling-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spiritual%20Formation-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Community%20Outreach-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Small%20Group%20Facilitation-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Benevolence%20Fund%20Management-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volunteer%20Leadership-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teaching%20%26%20Preaching-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intercession-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Restorative%20Conflict%20Resolution-6B3FA0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Care%20Team%20Leadership-6B3FA0?style=for-the-badge&logoColor=white" />
+</p>
+
+</td></tr></table>
+
+<table width="100%" bgcolor="#1a1400"><tr><td>
+
+### 🗣️ Communication & Soft Skills
 <p>
   <img src="https://img.shields.io/badge/Public%20Speaking-E74C3C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Socratic%20Method-E74C3C?style=for-the-badge&logoColor=white" />
@@ -311,43 +353,12 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/Needs%20Analysis-E74C3C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Quality%20Assurance-E74C3C?style=for-the-badge&logoColor=white" />
 </p>
-</details>
 
-<details>
-<summary><b>⛪ Faith, Character & Pastoral Skills — click to expand</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Discipleship-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Biblical%20Counseling-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grief%20Support-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crisis%20Counseling-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spiritual%20Formation-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Community%20Outreach-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Small%20Group%20Facilitation-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Benevolence%20Fund%20Management-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Volunteer%20Leadership-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Teaching%20%26%20Preaching-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intercession-4B5320?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Restorative%20Conflict%20Resolution-4B5320?style=for-the-badge&logoColor=white" />
-</p>
+</td></tr></table>
 
-**Fruit of the Spirit — Galatians 5:22–23**<br/>
-<p>
-  <img src="https://img.shields.io/badge/Love-E63946?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joy-F4A261?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Peace-2A9D8F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Patience-457B9D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kindness-9B5DE5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goodness-43AA8B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Faithfulness-264653?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gentleness-E9C46A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Self--Control-E76F51?style=for-the-badge&logoColor=white" />
-</p>
-</details>
+<table width="100%" bgcolor="#001e1e"><tr><td>
 
-<details>
-<summary><b>⚙️ Process, Strategy & Operations — click to expand</b></summary>
-<br/>
+### ⚙️ Process, Strategy & Operations
 <p>
   <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Value%20Stream%20Mapping-8E44AD?style=for-the-badge&logoColor=white" />
@@ -362,7 +373,8 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://img.shields.io/badge/CRM%20Management-005F73?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/508%20Accessibility-005F73?style=for-the-badge&logoColor=white" />
 </p>
-</details>
+
+</td></tr></table>
 
 ---
 
@@ -410,8 +422,9 @@ The credential that formalizes what the career already proved.<br/>
 </p>
 
 - 🚀 **733% productivity increase** in procurement through end-to-end Power Platform automation
+- 📈 **35% increase in won bids** via real-time bid tracking and job lifecycle management
 - 📉 **30%** reduction in manual processes across procurement and operations
-- ✈️ Automated the company aircraft flight request and approval system, eliminating manual strain on the flight team
+- ✈️ Automated the company aircraft flight request and approval system
 - 🔄 Built a full job lifecycle app walking projects from start to finish with integrated database via API and stored procedures
 
 </details>
@@ -495,9 +508,6 @@ The credential that formalizes what the career already proved.<br/>
 
 ## 📊 GitHub Stats
 
-<details>
-<summary><b>Click to view stats</b></summary>
-<br/>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dustindoesdata&theme=github_dark" />
 </p>
@@ -505,22 +515,6 @@ The credential that formalizes what the career already proved.<br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dustindoesdata&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dustindoesdata&theme=github_dark" />
 </p>
-</details>
-
----
-
-## 🐍 Contribution Activity
-
-<details>
-<summary><b>Click to view activity</b></summary>
-<br/>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dustindoesdata&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/output/github-snake-dark.svg" />
-</p>
-</details>
 
 ---
 
