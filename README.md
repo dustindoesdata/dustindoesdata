@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Relocation-58a6ff?style=for-the-badge" />
 </p>
 
-<p align="center"><i>"The most important question I ever asked was not on a résumé. It was at a bedside, a battlefield, and a whiteboard."</i></p>
+<p align="center"><i>"The most important questions I have ever asked was not found on a résumé. It was near bedsides, during desperate situations, and while serving people."</i></p>
 
 <table width="100%"><tr><td bgcolor="#0d1f35" width="100%">
 
@@ -25,7 +25,7 @@
 
 I am a Jesus-following Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. Through all of it: a follower of Jesus, a husband, a father, a lifelong learner, and someone who genuinely believes the best solution to any problem starts with the right question.
 
-I do not separate my faith from my work. My character, my communication, and the way I lead all flow from the same source. I will not compromise on either.
+My faith, My work, My character, My communication, and the way I lead all flow from the same source. No compromises.
 
 I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in Information Technology (Summa Cum Laude)**. I specialize in **predictive analytics, business intelligence, and enterprise automation** across the full data lifecycle, from raw pipeline to executive decision. My technical home is the **Microsoft data stack** (Fabric, Power BI, Power Platform, Azure) paired with **Python and SQL**, but I am fluent across tools and focused on outcomes over platforms.
 
@@ -39,9 +39,10 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👦 &nbsp; My oldest loves solving hard math problems<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👦 &nbsp; My middle child loves tinkering and building<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👧 &nbsp; My youngest explores every crack and crevice of the world with zero fear<br/>
-🙏 &nbsp; We believe God is three distinct persons, one being, one God. We read the Bible together **30 minutes every day**<br/>
+🙏 &nbsp; We believe God is three distinct persons, one being, one God. 
+📚 &nbsp; We read the Bible together atleast **30 minutes every day**<br/>
 📖 &nbsp; We memorize **one Bible verse every week** as a family<br/>
-🚗 &nbsp; A car wreck that could have taken us all gave me a sharper perspective on what matters in this world<br/>
+🚗 &nbsp; 1 car wreck that could have taken us all gave me a sharper perspective on what matters in this world 02/25/2026<br/>
 🌍 &nbsp; My mission: **transform the world, one life at a time. One data point at a time.**<br/>
 
 </td></tr></table>
@@ -134,16 +135,16 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 
 > If you want to win my attention fast, talk to me about **broken workflows, unsolved problems, or something you are learning.**
 
-I am a Jesus follower, husband, homeschooling father of three distinct kids, and a dog dad. Our favorite weekend activity is anything we can do together. Chuck-E-Cheese is the current fan favorite. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable, God-fearing humans.
+I am a Jesus follower, husband, homeschooling father of three distinct kids, and a dog dad. Our favorite weekend activity is anything we can do together. Chuck-E-Cheese and the library are the current fan favorite. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable, God-fearing humans.
 
 **🎤 How I Communicate**<br/>
 I lead with questions. On a client call, in front of a room, with my team, my first move is always to understand before I explain. Public speaking energizes me because I believe the best insights are unlocked when the right question lands at the right moment.<br/>
 
 **⛪ Community**<br/>
-Six years in church leadership, two overseas mission trips, and 12+ community outreach programs. Service is not something I do on weekends, it is how I am wired. My greatest honor and achievement in this life is not a metric or a title: it is raising children who love God with all their heart, soul, and mind. Currently recommending *Keep Your Love On* by Danny Silk to anyone who will listen.<br/>
+Six years in church leadership, two overseas mission trips, and 12+ community outreach programs. Service is not something I do on weekends, it is how I am wired. My greatest honor and achievement in this life is raising children who love God with all their heart, soul, and mind. Currently recommending *Keep Your Love On* by Danny Silk to anyone who will listen.<br/>
 
 **📚 How I Think**<br/>
-**Value Stream Mapping** to cut waste. **Six Thinking Hats** for balanced meetings. **Socratic Method** for teaching. The best way to make something stick is to let the other person discover it.<br/>
+**Value Stream Mapping** to identify bottle necks, and cut waste. **Six Thinking Hats** for balanced meetings, and focused efforts toward the objective. **Socratic Method** for teaching. The best way to make something stick is to let the other person discover it.<br/>
 
 </td></tr></table>
 
@@ -157,13 +158,13 @@ Six years in church leadership, two overseas mission trips, and 12+ community ou
 <summary><b>Click to read the full story. Every chapter matters.</b></summary>
 <br/>
 
-> I did not take a straight line to data science. I took the most interesting one available. And I believe God put every chapter there on purpose.
+> I did not take a straight line to data science. I took the most interesting one available. God put every chapter there on purpose.
 
 🪖 &nbsp; **Army National Guard, 91B** *(2013–2021)*<br/>
 Deployed in flood crisis response with an engineering brigade. Led and orchestrated rescue missions in life-threatening conditions. Held peers accountable to soldier standards. Kept vehicles mission-ready when failure was not an option.<br/>
 
 🍽️ &nbsp; **Server & Trainer, Texas Roadhouse** *(2015–2018)*<br/>
-Texas Roadhouse is not a restaurant, it is a high-velocity, high-accountability operation. Every shift meant managing 3 to 5 simultaneous tables as independent projects: reading each customer, personalizing the experience, delivering quality-controlled outputs on a tight deadline, and rotating the floor without letting anything slip. I trained every new employee, 15+ people, hired during my tenure. In a data context: parallel process management, QA, and onboarding under pressure.<br/>
+Texas Roadhouse is not just a restaurant, it is a high-velocity, high-accountability operation. Every shift meant managing 3 to 5 simultaneous tables as independent projects: reading each customer, personalizing the experience, delivering quality-controlled outputs on a tight deadline, and rotating the floor without letting anything slip. I trained new employee's, 15+ people, hired during my tenure. In a data context: parallel process management, QA, and onboarding under pressure.<br/>
 
 ⛪ &nbsp; **Pastoral Care, Church of the King** *(2015–2018)*<br/>
 Three years serving a nondenominational congregation under the commission to go and make disciples, not a title, a daily practice. I led care teams, visited the sick, sat with grieving families, and managed a benevolence budget that determined who received financial support in their most vulnerable moments. I preached to 11 regulars at NorthShore Behavioral Health and led 12+ community outreach programs. Completed 2 overseas mission trips. Conflict was not avoided, it was engaged with patience, gentleness, and a long view of restoration. The character refined here is not a soft skill. It is the foundation everything else is built on.<br/>
@@ -198,7 +199,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 <p align="center"><br/><i>"This was never just a career. It was a calling dressed in every role I ever held."</i><br/><br/></p>
 
-<p align="center"><i>"Consistency is not glamorous. It just compounds."</i></p>
+<p align="center"><i>"Consistency is a compound force."</i></p>
 
 ## 🐍 Contribution Activity
 
@@ -227,7 +228,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 A data project with real stakes: I homeschool my three kids, and I believe every major decision deserves a data layer. This project starts by scraping a real-world dataset via API, runs it through a full cleaning pipeline, visualizes current trends in homeschool outcomes, and builds predictive models based on those trends. Personal conviction, professional execution.<br/>
 
 **📈 Why this sequence matters**<br/>
-HackerRank builds SQL depth under competitive pressure. LeetCode builds algorithmic thinking for technical interviews. The homeschool project builds end-to-end data science muscle on a problem that matters to me personally. This is not scattered learning. This is a deliberate progression.<br/>
+HackerRank builds SQL depth under competitive pressure. LeetCode builds algorithmic thinking for technical interviews. The homeschool project builds an end-to-end data science muscle on problems that matters to me. This is a deliberate exercising to stay sharp, and progression toward what's important.<br/>
 
 </td></tr></table>
 
@@ -616,11 +617,11 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ## 📫 Building Things That Matter
 
-I did not arrive here by accident. Every role, every deployment, every conversation across a kitchen table or a hospital room was preparation. God does not waste chapters.
+I did not arrive here by accident. Every role, every emergency deployment, every conversation across a kitchen table or a hospital room was preparation. God does not waste chapters.
 
-I build things that outlast me: systems that free people from the work that was never worthy of their time, data that tells the truth when organizations need it most, and a home where three kids are learning that faith and curiosity are not opposites.
+I build things that outlast me: systems that free people from the work that was never worthy of their time, data that tells the truth when organizations need it most, and a home where three kids are learning that faith and curiosity are not at odds.
 
-That is what "Building Things That Matter" means. If you got this far, you are probably someone worth talking to.
+That is what "Building Things That Matter" means. Let's Talk.
 
 <p align="center">
   <a href="https://linkedin.com/in/dustinguichet">
