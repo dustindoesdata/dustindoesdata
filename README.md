@@ -26,9 +26,9 @@
 I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. 
 
 Through all of it: a follower of Jesus, a husband, a father, a lifelong learner, and someone who believes the best solution to any problem starts with the right question.
-My faith, My work, My character, My communication, and the way I lead all flow from the same source. No compromises.
+My Faith, My Family, My Work, and the way I lead all flow from the same source. No compromises.
 
-I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in Information Technology (Summa Cum Laude)**. I specialize in **predictive analytics, business intelligence, and enterprise automation** across the full data lifecycle, from raw pipeline to executive decision. My technical home is the **Microsoft data stack** (Fabric, Power BI, Power Platform, Azure) paired with **Python and SQL**, but I am fluent across tools and focused on outcomes over platforms.
+I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in Information Technology (Summa Cum Laude)**. I specialize in **predictive analytics, business intelligence, and enterprise automation** across the full data lifecycle, from raw pipeline to executive decision. My technical home is the **Microsoft data stack** (Fabric, Power BI, Power Platform, Azure) paired with **Python and SQL**, but I am fluent across tools and focused on outcomes over platforms.
 
 🎯 &nbsp; Turning messy data into decisions that move organizations forward<br/>
 🔐 &nbsp; **Public Trust** Clearance (formerly Secret), open to cleared roles<br/>
