@@ -21,7 +21,7 @@
 
 ## 🧭 About Me
 
-I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. Through all of it: a husband, a father, a lifelong learner, and someone who genuinely believes the best solution to any problem starts with the right question.
+I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. Through all of it: Follower of Jesus, a husband, a father, a lifelong learner, and someone who genuinely believes the best solution to any problem starts with the right question.
 
 I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in Information Technology (Summa Cum Laude)**. I specialize in **predictive analytics, business intelligence, and enterprise automation** across the full data lifecycle, from raw pipeline to executive decision. My technical home is the **Microsoft data stack** (Fabric, Power BI, Power Platform, Azure) paired with **Python and SQL**, but I am fluent across tools and focused on outcomes over platforms.
 
@@ -33,7 +33,7 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 ⛪ &nbsp; **12 years** as a Christian, **6 years** in active church leadership<br/>
 🤖 &nbsp; Homeschooling father of **3 kids**: one who loves solving hard math problems, one who builds everything in sight, and one who explores every crack and crevice of the world<br/>
 🙏 &nbsp; We believe God is three distinct persons, one being, one God. We read the Bible together **30 minutes every day** and memorize **one verse every week** as a family<br/>
-🚗 &nbsp; A car wreck that could have taken us all gave me a sharper perspective on what matters in this world<br/>
+🚗 &nbsp; A car wreck 02/25/26 that could have taken us all gave me a sharper perspective on what matters in this world<br/>
 🌍 &nbsp; My mission: **transform the world, one life at a time. One data point at a time.**<br/>
 
 </td></tr></table>
@@ -61,7 +61,7 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 📐 &nbsp; **2** degrees completed while working full-time throughout both programs<br/>
 
 **💰 Finance & Sales**<br/>
-💼 &nbsp; **$50M+** in managed client assets as a licensed Financial Advisor at New York Life<br/>
+💼 &nbsp; **$40M+** in managed client assets as a licensed Financial Advisor at New York Life<br/>
 📐 &nbsp; **15.8%** average portfolio ROI delivered across a personal book of business<br/>
 🤝 &nbsp; **30** financial advisory clients acquired entirely through cold outreach<br/>
 📋 &nbsp; **1** dedicated CRM managed door-to-door, zero clients allowed to fall through the cracks<br/>
@@ -113,7 +113,6 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 🍽️ &nbsp; **6 to 8** tables managed simultaneously every shift at Texas Roadhouse, parallel project management at scale<br/>
 📖 &nbsp; **Generations** of family history now preserved in a single Python automation system<br/>
 ✈️ &nbsp; **Multiple** countries visited, always ready to add more<br/>
-🎮 &nbsp; **1** ongoing argument with myself about whether data science or Pokédex completion is the more impressive achievement<br/>
 
 </td></tr></table>
 
@@ -125,7 +124,7 @@ I hold an **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in 
 
 > If you want to win my attention fast, talk to me about **broken workflows, unsolved problems, or something you're learning.**
 
-I am a husband, dog dad, and homeschooling father of three kids who have all independently fallen in love with mathematics and logic. Our favorite weekend activity is building robots with **VEX Robotics** kits. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable humans.
+I am a Jesus follower, husband, homeschooling father of three kids ,who are each distinct, and a dog dad. Our favorite weekend activity is anything we can be together doing - Chuck-E-Cheese is the fan favorite right now. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable humans.
 
 **🎤 How I Communicate**<br/>
 I lead with questions. On a client call, in front of a room, with my team, my first move is always to understand before I explain. Public speaking energizes me because I believe the best insights are unlocked when the right question lands at the right moment.<br/>
@@ -498,7 +497,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 <summary><b>📊 Power BI Department Unification Dashboard</b></summary>
 <br/>
 
-> Five teams speaking five different languages, now speaking one.
+> Five teams speaking five different data languages, now speaking one.
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
