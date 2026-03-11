@@ -235,11 +235,30 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ## 🛠️ Skills & Tools
 
+<table width="100%"><tr><td bgcolor="#0a1628" width="100%">
+
+### ⭐ Notable Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+</td></tr></table>
+
 <table width="100%"><tr><td bgcolor="#0d1f35" width="100%">
 
 ### 🔬 Data Science & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Predictive%20Modeling-005F73?style=flat-square&logo=python&logoColor=white" />
@@ -263,11 +282,9 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### 📦 Python & Data Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
@@ -281,8 +298,6 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### 🗄️ Data Engineering & Databases
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Stored%20Procedures-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -300,12 +315,6 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### 📊 Business Intelligence & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Dashboard%20Design-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Storytelling-58a6ff?style=flat-square&logoColor=white" />
@@ -320,7 +329,6 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### ☁️ Cloud, DevOps & Engineering
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-005F73?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD%20GitHub%20Actions-181717?style=flat-square&logo=github&logoColor=white" />
@@ -510,8 +518,6 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 > The operations team was drowning in manual processes. Over two years I built a suite of interconnected applications that changed how the entire company ran.
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Stored%20Procedures-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Business%20Process%20Automation-27AE60?style=flat-square&logoColor=white" />
 </p>
@@ -531,8 +537,6 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 > Five teams speaking five different data languages, now speaking one.
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
@@ -550,8 +554,6 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 <p>
   <img src="https://img.shields.io/badge/Python%20Pandas%20%2B%20Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 - 📊 Statistical comparison across **3 education models**: homeschool, public, and private
