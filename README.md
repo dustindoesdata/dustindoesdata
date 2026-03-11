@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=400&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&lines=I+am+a+Problem+Solver.;I+am+a+Question+Asker.;I+am+a+Data+Storyteller.;I+am+a+Purpose+Builder.;I+am+a+Veteran.;I+am+a+Husband+and+Father.;I+am+a+Lifelong+Learner.;%C2%BB+BUILDER+OF+THINGS+THAT+MATTER+%C2%AB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=900&pause=400&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&lines=I+am+a+Problem+Solver.;I+am+a+Question+Asker.;I+am+a+Data+Storyteller.;I+am+a+Purpose+Builder.;I+am+a+Veteran.;I+am+a+Husband+and+Father.;I+am+a+Lifelong+Learner.;%C2%BB+BUILDER+OF+THINGS+THAT+MATTER+%C2%AB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -259,21 +259,21 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### 🔬 Data Science & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-005F73?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-8E44AD?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regression%20%26%20Classification-E74C3C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-27AE60?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-8E44AD?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-009688?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-FF6F00?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clustering-009688?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dimensionality%20Reduction-8E44AD?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-005F73?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-005F73?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-8E44AD?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regression%20%26%20Classification-E74C3C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-27AE60?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-8E44AD?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-009688?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-FF6F00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clustering-009688?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dimensionality%20Reduction-8E44AD?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-005F73?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-EE4C2C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logoColor=white" />
 </p>
 
 </td></tr></table>
@@ -282,14 +282,14 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### 📦 Python & Data Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statsmodels-8CAAE6?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-8CAAE6?style=flat-square&logoColor=white" />
 </p>
 
 </td></tr></table>
@@ -298,15 +298,15 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### 🗄️ Data Engineering & Databases
 <p>
-  <img src="https://img.shields.io/badge/Stored%20Procedures-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Warehousing-00758F?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-00758F?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Quality%20%26%20Governance-E25A1C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Administration-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stored%20Procedures-336791?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-3776AB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Warehousing-00758F?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-00758F?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Quality%20%26%20Governance-E25A1C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-E25A1C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Administration-336791?style=flat-square&logoColor=white" />
 </p>
 
 </td></tr></table>
@@ -315,12 +315,12 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### 📊 Business Intelligence & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dashboard%20Design-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dashboard%20Design-E97627?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Storytelling-58a6ff?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/KPI%20Development-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Executive%20Reporting-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/UX%20for%20Data-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/KPI%20Development-F2C811?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Executive%20Reporting-F2C811?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/UX%20for%20Data-F24E1E?style=flat-square&logoColor=white" />
 </p>
 
 </td></tr></table>
@@ -329,14 +329,14 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### ☁️ Cloud, DevOps & Engineering
 <p>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-005F73?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD%20GitHub%20Actions-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD%20GitHub%20Actions-181717?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-0078D4?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-EE4C2C?style=flat-square&logoColor=white" />
 </p>
 
 </td></tr></table>
@@ -345,17 +345,17 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ### 💻 Software Development
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-239120?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Services-005F73?style=flat-square&logoColor=white" />
 </p>
 
