@@ -511,7 +511,6 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/Woz%20U-.NET%20%26%20C%23%20Engineering-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/freeCodeCamp-JS%20Algorithms%20%26%20Data%20Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
   <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
 </p>
 <p align="center">
   <a href="http://verify.skilljar.com/c/sdtnqxanobyk">
