@@ -516,6 +516,9 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <a href="http://verify.skilljar.com/c/sdtnqxanobyk">
     <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
+    <a href="http://verify.skilljar.com/c/wppqvysbffxn">
+    <img src="https://img.shields.io/badge/Anthropic-Claude%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
 </p>
 </p>
 
