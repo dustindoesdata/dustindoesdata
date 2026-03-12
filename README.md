@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Relocation-58a6ff?style=for-the-badge" />
 </p>
 
-<p align="center"><i>"The most important questions I have ever asked was not found on a résumé. It was near bedsides, during desperate situations, and while serving people."</i></p>
+<p align="center"><i>"The most important questions I have ever asked was not found on a résumé. It was near bedsides during desperate situations, while serving people."</i></p>
 
 <table width="100%"><tr><td bgcolor="#0d1f35" width="100%">
 
