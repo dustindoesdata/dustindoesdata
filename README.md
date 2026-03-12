@@ -223,13 +223,17 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 🟨  HackerRank SQL      [███████████████░░░]  47/58   Clearing every non-hard problem before moving on
 ⬜  LeetCode            [░░░░░░░░░░░░░░░░░░]  Queued  Begins when HackerRank mission is complete
 🔬  Homeschool Study    [████░░░░░░░░░░░░░░]  Active  API scrape → clean → visualize → predict trends
+🤖  Anthropic Academy   [░░░░░░░░░░░░░░░░░░]  Active  13 courses — AI fundamentals and prompt engineering
 ```
 
 **🔬 Homeschool Outcome Prediction Project**<br/>
 A data project with real stakes: I homeschool my three kids, and I believe every major decision deserves a data layer. This project starts by scraping a real-world dataset via API, runs it through a full cleaning pipeline, visualizes current trends in homeschool outcomes, and builds predictive models based on those trends. Personal conviction, professional execution.<br/>
 
+**🤖 Anthropic Academy**<br/>
+13 courses covering AI fundamentals, prompt engineering, and applied Claude development. This is not checkbox learning. AI is reshaping every data workflow I touch, and I want to understand it from the foundation up, not just the surface down.<br/>
+
 **📈 Why this sequence matters**<br/>
-HackerRank builds SQL depth under competitive pressure. LeetCode builds algorithmic thinking for technical interviews. The homeschool project builds an end-to-end data science muscle on problems that matters to me. This is a deliberate exercising to stay sharp, and progression toward what's important.<br/>
+HackerRank builds SQL depth under competitive pressure. LeetCode builds algorithmic thinking for technical interviews. The homeschool project builds an end-to-end data science muscle on problems that matter to me. Anthropic Academy builds AI fluency at the layer most data professionals are skipping. This is deliberate progression, not scattered effort.<br/>
 
 </td></tr></table>
 
