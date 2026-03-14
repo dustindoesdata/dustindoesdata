@@ -146,9 +146,11 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 </td></tr></table>
 </details>
 
-<br/>
+<p align="center">&nbsp;</p>
 
 ---
+
+<p align="center">&nbsp;</p>
 
 <details>
 <summary><b>🙋 Beyond the Code &nbsp;—&nbsp; the human behind the work</b></summary>
