@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Dustin%20Guichet&fontSize=70&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Army%20Veteran%20%7C%20Homeschooling%20Father&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1200&pause=600&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&lines=Soldier.+Pastor.+Advisor.+Developer.+Data+Scientist.;Every+role+was+training+for+the+one+I%27m+doing+right+now.;%C2%BB+BUILDER+OF+THINGS+THAT+MATTER+%C2%AB" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dustindoesdata&style=for-the-badge&color=0e75b6" alt="Profile Views" />
@@ -7,18 +15,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Relocation-58a6ff?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/identity-card.svg" alt="Identity Card" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" />
-</p>
+<p align="center"><i>A data scientist is the helmsman of the ship — we listen to the captain, and look forward with foresight to determine the best path to achieve the course they set.</i></p>
 
 <p align="center"><i>"The most important questions I have ever asked were never on a résumé. They were asked near bedsides, in desperate moments, while serving people."</i></p>
 
@@ -51,8 +48,9 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 🙏 &nbsp; We believe God is three distinct persons, one being, one God.<br/>
 📚 &nbsp; We read the Bible together at least **30 minutes every day**<br/>
 📖 &nbsp; We memorize **one Bible verse every week** as a family<br/>
-🚗 &nbsp; 1 car wreck that could have taken us all gave me a sharper perspective on what matters in this world 02/25/2026<br/>
+🚗 &nbsp; A car wreck that could have taken us all gave me a sharper perspective on what matters in this world.<br/>
 🌍 &nbsp; My mission: **transform the world, one life at a time. One data point at a time.**<br/>
+🧭 &nbsp; I build things that tell the truth. I have the character to stand behind what they say.<br/>
 
 </td></tr></table>
 </details>
@@ -156,18 +154,40 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 
 <table width="100%"><tr><td bgcolor="#1a0d2e" width="100%">
 
-> If you want to win my attention fast, talk to me about **broken workflows, unsolved problems, or something you are learning.**
+> The conversations that energize me most are about **broken workflows, unsolved problems, and things people are actively learning.**
 
 I am a Jesus follower, husband, homeschooling father of three distinct kids, and a dog dad. Our favorite weekend activity is anything we can do together. Chuck-E-Cheese and the library are the current fan favorites. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable, God-fearing humans.
 
 **🎤 How I Communicate**<br/>
 I lead with questions. On a client call, in front of a room, with my team, my first move is always to understand before I explain. Public speaking energizes me because I believe the best insights are unlocked when the right question lands at the right moment.<br/>
 
+When the data says something a leader does not want to hear, I do not deliver a verdict. I deliver a navigation update. Data tells a story — and if we want the ending to look different, we need to do something differently. The ship is still steerable. There are options. The role of the helmsman is not to override the captain. It is to look forward, name the obstacles, and find the best path back on course. Together.<br/>
+
 **⛪ Community**<br/>
 Six years in church leadership, two overseas mission trips, and 12+ community outreach programs. Service is not something I do on weekends, it is how I am wired. My greatest honor and achievement in this life is raising children who love God with all their heart, soul, and mind. Currently recommending *Keep Your Love On* by Danny Silk to anyone who will listen.<br/>
 
 **📚 How I Think**<br/>
 **Value Stream Mapping** to identify bottlenecks and cut waste. **Six Thinking Hats** for balanced meetings and focused efforts toward the objective. **Socratic Method** for teaching. The best way to make something stick is to let the other person discover it.<br/>
+
+**✝️ What Anchors It All**<br/>
+Faith is not a weekend activity for me — it is the foundation every other section of this profile is built on. Twelve years walking as a follower of Jesus. Six years in active church leadership. Three years of pastoral care: sitting with the grieving, managing a benevolence budget, leading care teams, preaching to 11 regulars at a behavioral health facility, completing two overseas mission trips, and running 12+ community outreach programs. The character refined in those rooms is not a soft skill. It is the reason the hard skills mean anything.
+<p>
+  <img src="https://img.shields.io/badge/Discipleship-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biblical%20Counseling-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grief%20Support-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crisis%20Counseling-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spiritual%20Formation-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Community%20Outreach-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Small%20Group%20Facilitation-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Benevolence%20Fund%20Management-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volunteer%20Leadership-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teaching%20%26%20Preaching-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intercession-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Restorative%20Conflict%20Resolution-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Care%20Team%20Leadership-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission%20Trip%20Leadership-6B3FA0?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hospital%20%26%20Behavioral%20Health%20Ministry-6B3FA0?style=flat-square&logoColor=white" />
+</p><br/>
 
 </td></tr></table>
 </details>
@@ -179,6 +199,10 @@ Six years in church leadership, two overseas mission trips, and 12+ community ou
 <p align="center">
   <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/career-timeline.svg" alt="Career Timeline" />
 </p>
+
+<p align="center"><i>"This was never just a career. It was a calling dressed in every role I ever held."</i></p>
+
+<p align="center"><sup>Every node above is a chapter. Click below to read the full story.</sup></p>
 
 <table width="100%"><tr><td bgcolor="#2e0d1a" width="100%">
 
@@ -215,7 +239,7 @@ JavaScript dashboard and custom APIs at NUBITZ. Then a 12-hour-per-day bootcamp 
 Coached 4 students to the top 2% globally at VEX Robotics Worlds. Then stepped into Executive Director: built a curriculum from scratch using Socratic Method, Six Hats, and Agile principles. Doubled enrollment. Hired and onboarded a full coaching staff. Built something that outlasted my tenure.<br/>
 
 📊 &nbsp; **Data Visualization Consultant** *(2024)*<br/>
-Enterprise Power BI, Power Platform, and Azure. Unified 5 department silos. Delivered 25% operational efficiency gains. Designed Figma prototypes beyond original scope, because good enough never is.<br/>
+Enterprise Power BI, Power Platform, and Azure. Unified 5 department silos. Delivered 25% operational efficiency gains. Designed Figma prototypes to align stakeholders before a single report was built.<br/>
 
 🎓 &nbsp; **M.S. Data Science, Graduated with Distinction** *(2025)*<br/>
 The credential that formalizes what the career already proved.<br/>
@@ -227,10 +251,6 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 </td></tr></table>
 
-<p align="center"><br/><i>"This was never just a career. It was a calling dressed in every role I ever held."</i><br/><br/></p>
-
----
-
 ---
 
 ## 🚧 Currently Building
@@ -240,6 +260,8 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 <p align="center">
   <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/progress-bars.svg" alt="Currently Building Progress" />
 </p>
+
+<p align="center"><sup>Deliberate progression. Every level unlocks the next.</sup></p>
 
 ---
 
@@ -408,30 +430,6 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 </details>
 
 <details>
-<summary><b>⛪ Faith, Character & Pastoral Skills</b></summary>
-<br/>
-<table width="100%"><tr><td bgcolor="#2a0a2a" width="100%">
-<p>
-  <img src="https://img.shields.io/badge/Discipleship-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Biblical%20Counseling-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grief%20Support-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crisis%20Counseling-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spiritual%20Formation-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Community%20Outreach-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Small%20Group%20Facilitation-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Benevolence%20Fund%20Management-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Volunteer%20Leadership-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Teaching%20%26%20Preaching-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intercession-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Restorative%20Conflict%20Resolution-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Care%20Team%20Leadership-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mission%20Trip%20Leadership-6B3FA0?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hospital%20%26%20Behavioral%20Health%20Ministry-6B3FA0?style=flat-square&logoColor=white" />
-</p>
-</td></tr></table>
-</details>
-
-<details>
 <summary><b>🗣️ Communication & Soft Skills</b></summary>
 <br/>
 <table width="100%"><tr><td bgcolor="#1a1400" width="100%">
@@ -538,7 +536,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 <summary><b>⚡ ISC Constructors, Power Platform App Suite</b></summary>
 <br/>
 
-> The operations team was drowning in manual processes. Over two years I built a suite of interconnected applications that changed how the entire company ran.
+> The operations team was drowning in manual processes. Before a single line of code was written, I mapped every workflow, found every bottleneck, and understood exactly what the business needed to move. Then I built to that — and left room for what the build would inevitably reveal.
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Stored%20Procedures-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -557,7 +555,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 <summary><b>📊 Power BI Department Unification Dashboard</b></summary>
 <br/>
 
-> Five teams speaking five different data languages, now speaking one.
+> Five teams speaking five different data languages, none of them aware the others existed. The first step was not building — it was listening to each team long enough to understand what they were actually measuring and why. The dashboard came after the understanding.
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -565,7 +563,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 - 📉 **25%** operational efficiency increase across all stakeholder processes
 - 🔗 Unified **5 department silos** under standardized metrics and automated reporting
-- 🎨 Designed Figma prototypes proactively, beyond scope, because good enough never is
+- 🎨 Designed Figma prototypes to align stakeholders before a single report was built
 
 </details>
 
@@ -589,7 +587,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 <summary><b>🗓️ Family Legacy Calendar System</b></summary>
 <br/>
 
-> For generations, someone in my family manually built a calendar packed with birthdays, anniversaries, and dates stretching back decades. When the family elder who carried that tradition was ready to pass the baton, I automated it, so it never has to be carried by one person's hands again.
+> For generations, someone in my family manually built a calendar packed with birthdays, anniversaries, and dates stretching back decades. When the family elder who carried that tradition was ready to pass the baton, I automated it, so it never has to be carried by one person's hands again. The data belongs to the people who trusted me with it. The repo stays private. The system runs.
 
 <p>
   <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -651,6 +649,10 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 I did not arrive here by accident. Every role, every emergency deployment, every conversation across a kitchen table or a hospital room was preparation. God does not waste chapters.
 
 I build things that outlast me: systems that free people from the work that was never worthy of their time, data that tells the truth when organizations need it most, and a home where three kids are learning that faith and curiosity are not at odds.
+
+My goal is not to be the smartest person in the room. It is to be in the right room — surrounded by people smarter and more qualified than me, working on problems big enough to matter.
+
+The course is set. I am ready to help find the path.
 
 That is what "Building Things That Matter" means. Let's Talk.
 
