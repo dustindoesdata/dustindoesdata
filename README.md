@@ -146,6 +146,8 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 </td></tr></table>
 </details>
 
+<br/>
+
 ---
 
 <details>
