@@ -13,7 +13,18 @@
   <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/identity-card.svg" alt="Identity Card" />
 </p>
 
-<p align="center"><i>"The most important questions I have ever asked was not found on a résumé. It was near bedsides during desperate situations, while serving people."</i></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
+
+<p align="center"><i>"The most important questions I have ever asked were never on a résumé. They were asked near bedsides, in desperate moments, while serving people."</i></p>
+
+<br/>
 
 ---
 
@@ -48,7 +59,7 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 </td></tr></table>
 </details>
 
-<p align="center"><i>"If you cannot measure it, you cannot improve it. If you will not be honest about it, the measurement means nothing."</i></p>
+<br/>
 
 ---
 
@@ -61,6 +72,8 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 <br/>
 
 <table width="100%"><tr><td bgcolor="#0d2818" width="100%">
+
+<p align="center"><i>"If you cannot measure it, you cannot improve it. If you will not be honest about it, the measurement means nothing."</i></p>
 
 > This is my life in data: professional, personal, and everything in between.
 
@@ -161,11 +174,13 @@ Six years in church leadership, two overseas mission trips, and 12+ community ou
 </td></tr></table>
 </details>
 
+<br/>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/career-timeline.svg" alt="Career Timeline" />
 </p>
-
-<p align="center"><i>"Every role I ever held was training for the one I am doing right now."</i></p>
 
 <table width="100%"><tr><td bgcolor="#2e0d1a" width="100%">
 
@@ -218,7 +233,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 ---
 
-<table width="100%"><tr><td bgcolor="#2a1f00" width="100%">
+---
 
 ## 🚧 Currently Building
 
@@ -227,17 +242,6 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 <p align="center">
   <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/progress-bars.svg" alt="Currently Building Progress" />
 </p>
-
-**🔬 Homeschool Outcome Prediction Project**<br/>
-A data project with real stakes: I homeschool my three kids, and I believe every major decision deserves a data layer. This project starts by scraping a real-world dataset via API, runs it through a full cleaning pipeline, visualizes current trends in homeschool outcomes, and builds predictive models based on those trends. Personal conviction, professional execution.<br/>
-
-**🤖 Anthropic Academy**<br/>
-13 courses covering AI fundamentals, prompt engineering, and applied Claude development. This is not checkbox learning. AI is reshaping every data workflow I touch, and I want to understand it from the foundation up, not just the surface down.<br/>
-
-**📈 Why this sequence matters**<br/>
-HackerRank builds SQL depth under competitive pressure. LeetCode builds algorithmic thinking for technical interviews. The homeschool project builds an end-to-end data science muscle on problems that matter to me. Anthropic Academy builds AI fluency at the layer most data professionals are skipping. This is deliberate progression, not scattered effort.<br/>
-
-</td></tr></table>
 
 ---
 
@@ -486,29 +490,36 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ## 🏆 Achievements & Certifications
 
+**Education**
 <p align="center">
   <img src="https://img.shields.io/badge/M.S.%20Data%20Science-Graduated%20with%20Distinction-FFD700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/B.S.%20Information%20Technology-Summa%20Cum%20Laude-FFD700?style=for-the-badge" />
 </p>
+
+**Military & Service**
 <p align="center">
   <img src="https://img.shields.io/badge/U.S.%20Army%20National%20Guard-8%20Years%20of%20Service-4B5320?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Security%20Clearance-Public%20Trust%20%7C%20formerly%20Secret-0078D4?style=for-the-badge" />
 </p>
+
+**Competition & Rankings**
 <p align="center">
   <img src="https://img.shields.io/badge/VEX%20Robotics%20Worlds-Top%202%25%20Globally-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AT%26T-Design%20Thinking%20Certified-00A8E0?style=for-the-badge" />
-</p>
-<p align="center">
   <a href="https://www.hackerrank.com/profile/dustindoesdata">
     <img src="https://img.shields.io/badge/HackerRank-5%E2%98%85%20SQL%20GOLD%20%7C%20Rank%20%23160%2C174-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
+
+**Technical Certifications**
 <p align="center">
+  <img src="https://img.shields.io/badge/AT%26T-Design%20Thinking%20Certified-00A8E0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/508%20Compliance-Certified-005F73?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Woz%20U-.NET%20%26%20C%23%20Engineering-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/freeCodeCamp-JS%20Algorithms%20%26%20Data%20Structures-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
   <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
 </p>
+
+**AI & Emerging Technology**
 <p align="center">
   <a href="http://verify.skilljar.com/c/sdtnqxanobyk">
     <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -619,7 +630,7 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution & Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dustindoesdata&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
@@ -654,6 +665,9 @@ That is what "Building Things That Matter" means. Let's Talk.
   </a>
   <a href="https://www.hackerrank.com/profile/dustindoesdata">
     <img src="https://img.shields.io/badge/HackerRank-dustindoesdata-FFD700?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/dustindoesdata/">
+    <img src="https://img.shields.io/badge/LeetCode-dustindoesdata-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:dustindoesdata@gmail.com">
     <img src="https://img.shields.io/badge/Email-dustindoesdata%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
