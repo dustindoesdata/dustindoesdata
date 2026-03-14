@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Dustin%20Guichet&fontSize=70&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Army%20Veteran%20%7C%20Builder%20of%20Things%20That%20Matter&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dustindoesdata&style=for-the-badge&color=0e75b6" alt="Profile Views" />
