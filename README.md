@@ -3,30 +3,29 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=900&pause=400&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&lines=I+am+a+Problem+Solver.;A+Question+Asker.;A+Data+Storyteller.;A+Purpose+Builder.;A+Lifelong+Learner.;%C2%BB+BUILDER+OF+THINGS+THAT+MATTER+%C2%AB" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center"><i>Jesus follower &nbsp;·&nbsp; Question asker &nbsp;·&nbsp; Purpose builder</i></p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dustindoesdata&style=for-the-badge&color=0e75b6" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea043?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clearance-Public%20Trust-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20To-Relocation-58a6ff?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/identity-card.svg" alt="Identity Card" />
+</p>
+
 <p align="center"><i>"The most important questions I have ever asked was not found on a résumé. It was near bedsides during desperate situations, while serving people."</i></p>
+
+---
+
+<details>
+<summary><b>🧭 About Me &nbsp;—&nbsp; click to read the full story</b></summary>
+<br/>
 
 <table width="100%"><tr><td bgcolor="#0d1f35" width="100%">
 
-## 🧭 About Me
+I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated.
 
-I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated. 
-
-Through all of it: a follower of Jesus, a husband, a father, a lifelong learner, and someone who believes the best solution to any problem starts with the right question.
-My Faith, My Family, My Work, and the way I lead all flow from the same source. No compromises.
+Through all of it: a follower of Jesus, a husband, a father, a lifelong learner, and someone who believes the best solution to any problem starts with the right question. My Faith, My Family, My Work, and the way I lead all flow from the same source. No compromises.
 
 I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in Information Technology (Summa Cum Laude)**. I specialize in **predictive analytics, business intelligence, and enterprise automation** across the full data lifecycle, from raw pipeline to executive decision. My technical home is the **Microsoft data stack** (Fabric, Power BI, Power Platform, Azure) paired with **Python and SQL**, but I am fluent across tools and focused on outcomes over platforms.
 
@@ -40,19 +39,28 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👦 &nbsp; My oldest loves solving hard math problems<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👦 &nbsp; My middle child loves tinkering and building<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👧 &nbsp; My youngest explores every crack and crevice of the world with zero fear<br/>
-🙏 &nbsp; We believe God is three distinct persons, one being, one God. 
-📚 &nbsp; We read the Bible together atleast **30 minutes every day**<br/>
+🙏 &nbsp; We believe God is three distinct persons, one being, one God.<br/>
+📚 &nbsp; We read the Bible together at least **30 minutes every day**<br/>
 📖 &nbsp; We memorize **one Bible verse every week** as a family<br/>
 🚗 &nbsp; 1 car wreck that could have taken us all gave me a sharper perspective on what matters in this world 02/25/2026<br/>
 🌍 &nbsp; My mission: **transform the world, one life at a time. One data point at a time.**<br/>
 
 </td></tr></table>
+</details>
 
 <p align="center"><i>"If you cannot measure it, you cannot improve it. If you will not be honest about it, the measurement means nothing."</i></p>
 
-<table width="100%"><tr><td bgcolor="#0d2818" width="100%">
+---
 
-## 🔢 By the Numbers
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/impact-metrics-8.svg" alt="Impact Metrics" />
+</p>
+
+<details>
+<summary><b>🔢 By the Numbers &nbsp;—&nbsp; my life in data</b></summary>
+<br/>
+
+<table width="100%"><tr><td bgcolor="#0d2818" width="100%">
 
 > This is my life in data: professional, personal, and everything in between.
 
@@ -127,16 +135,19 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 ✈️ &nbsp; **Multiple** countries visited, always ready to add more<br/>
 
 </td></tr></table>
+</details>
 
-<p align="center"><i>"Data tells you what happened. Character determines what you do about it."</i></p>
+---
+
+<details>
+<summary><b>🙋 Beyond the Code &nbsp;—&nbsp; the human behind the work</b></summary>
+<br/>
 
 <table width="100%"><tr><td bgcolor="#1a0d2e" width="100%">
 
-## 🙋 Beyond the Code
-
 > If you want to win my attention fast, talk to me about **broken workflows, unsolved problems, or something you are learning.**
 
-I am a Jesus follower, husband, homeschooling father of three distinct kids, and a dog dad. Our favorite weekend activity is anything we can do together. Chuck-E-Cheese and the library are the current fan favorite. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable, God-fearing humans.
+I am a Jesus follower, husband, homeschooling father of three distinct kids, and a dog dad. Our favorite weekend activity is anything we can do together. Chuck-E-Cheese and the library are the current fan favorites. The same data-driven thinking I bring to enterprise systems is exactly what I bring to raising curious, capable, God-fearing humans.
 
 **🎤 How I Communicate**<br/>
 I lead with questions. On a client call, in front of a room, with my team, my first move is always to understand before I explain. Public speaking energizes me because I believe the best insights are unlocked when the right question lands at the right moment.<br/>
@@ -145,9 +156,14 @@ I lead with questions. On a client call, in front of a room, with my team, my fi
 Six years in church leadership, two overseas mission trips, and 12+ community outreach programs. Service is not something I do on weekends, it is how I am wired. My greatest honor and achievement in this life is raising children who love God with all their heart, soul, and mind. Currently recommending *Keep Your Love On* by Danny Silk to anyone who will listen.<br/>
 
 **📚 How I Think**<br/>
-**Value Stream Mapping** to identify bottle necks, and cut waste. **Six Thinking Hats** for balanced meetings, and focused efforts toward the objective. **Socratic Method** for teaching. The best way to make something stick is to let the other person discover it.<br/>
+**Value Stream Mapping** to identify bottlenecks and cut waste. **Six Thinking Hats** for balanced meetings and focused efforts toward the objective. **Socratic Method** for teaching. The best way to make something stick is to let the other person discover it.<br/>
 
 </td></tr></table>
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/career-timeline.svg" alt="Career Timeline" />
+</p>
 
 <p align="center"><i>"Every role I ever held was training for the one I am doing right now."</i></p>
 
@@ -165,7 +181,7 @@ Six years in church leadership, two overseas mission trips, and 12+ community ou
 Deployed in flood crisis response with an engineering brigade. Led and orchestrated rescue missions in life-threatening conditions. Held peers accountable to soldier standards. Kept vehicles mission-ready when failure was not an option.<br/>
 
 🍽️ &nbsp; **Server & Trainer, Texas Roadhouse** *(2015–2018)*<br/>
-Texas Roadhouse is not just a restaurant, it is a high-velocity, high-accountability operation. Every shift meant managing 3 to 5 simultaneous tables as independent projects: reading each customer, personalizing the experience, delivering quality-controlled outputs on a tight deadline, and rotating the floor without letting anything slip. I trained new employee's, 15+ people, hired during my tenure. In a data context: parallel process management, QA, and onboarding under pressure.<br/>
+Texas Roadhouse is not just a restaurant, it is a high-velocity, high-accountability operation. Every shift meant managing 3 to 5 simultaneous tables as independent projects: reading each customer, personalizing the experience, delivering quality-controlled outputs on a tight deadline, and rotating the floor without letting anything slip. I trained new employees, 15+ people, hired during my tenure. In a data context: parallel process management, QA, and onboarding under pressure.<br/>
 
 ⛪ &nbsp; **Pastoral Care, Church of the King** *(2015–2018)*<br/>
 Three years serving a nondenominational congregation under the commission to go and make disciples, not a title, a daily practice. I led care teams, visited the sick, sat with grieving families, and managed a benevolence budget that determined who received financial support in their most vulnerable moments. I preached to 11 regulars at NorthShore Behavioral Health and led 12+ community outreach programs. Completed 2 overseas mission trips. Conflict was not avoided, it was engaged with patience, gentleness, and a long view of restoration. The character refined here is not a soft skill. It is the foundation everything else is built on.<br/>
@@ -200,18 +216,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 <p align="center"><br/><i>"This was never just a career. It was a calling dressed in every role I ever held."</i><br/><br/></p>
 
-<p align="center"><i>"Consistency is a compound force."</i></p>
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dustindoesdata&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/output/github-snake-dark.svg" />
-</p>
-
-<p align="center"><i>"The best time to build the skill was yesterday. The second best time is right now."</i></p>
+---
 
 <table width="100%"><tr><td bgcolor="#2a1f00" width="100%">
 
@@ -219,12 +224,9 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 > Deliberate, sequential, purposeful. Every level unlocks the next.
 
-```
-🟨  HackerRank SQL      [███████████████░░░]  47/58   Clearing every non-hard problem before moving on
-⬜  LeetCode            [░░░░░░░░░░░░░░░░░░]  Queued  Begins when HackerRank mission is complete
-🔬  Homeschool Study    [████░░░░░░░░░░░░░░]  Active  API scrape → clean → visualize → predict trends
-🤖  Anthropic Academy   [░░░░░░░░░░░░░░░░░░]  Active  13 courses — AI fundamentals and prompt engineering
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/progress-bars.svg" alt="Currently Building Progress" />
+</p>
 
 **🔬 Homeschool Outcome Prediction Project**<br/>
 A data project with real stakes: I homeschool my three kids, and I believe every major decision deserves a data layer. This project starts by scraping a real-world dataset via API, runs it through a full cleaning pipeline, visualizes current trends in homeschool outcomes, and builds predictive models based on those trends. Personal conviction, professional execution.<br/>
@@ -237,33 +239,16 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 </td></tr></table>
 
-<p align="center"><i>"A craftsman knows his tools. A master knows which tool the moment requires."</i></p>
+---
 
 ## 🛠️ Skills & Tools
 
-<table width="100%"><tr><td bgcolor="#0a1628" width="100%">
+<!-- ↓ Each category folded individually — click to expand -->
 
-### ⭐ Notable Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
-</td></tr></table>
-
+<details>
+<summary><b>🔬 Data Science & Machine Learning</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#0d1f35" width="100%">
-
-### 🔬 Data Science & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/R-C0392B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-C0392B?style=flat-square&logoColor=white" />
@@ -281,12 +266,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/MLOps-C0392B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-C0392B?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>📦 Python & Data Ecosystem</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#0d2800" width="100%">
-
-### 📦 Python & Data Ecosystem
 <p>
   <img src="https://img.shields.io/badge/NumPy-1E8449?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-1E8449?style=flat-square&logoColor=white" />
@@ -297,12 +283,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/XGBoost-1E8449?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Statsmodels-1E8449?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>🗄️ Data Engineering & Databases</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#2e1a00" width="100%">
-
-### 🗄️ Data Engineering & Databases
 <p>
   <img src="https://img.shields.io/badge/Stored%20Procedures-1F618D?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL%20Pipelines-1F618D?style=flat-square&logoColor=white" />
@@ -314,12 +301,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/Big%20Data%20Analytics-1F618D?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Database%20Administration-1F618D?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>📊 Business Intelligence & Visualization</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#2e0000" width="100%">
-
-### 📊 Business Intelligence & Visualization
 <p>
   <img src="https://img.shields.io/badge/Figma-D35400?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Dashboard%20Design-D35400?style=flat-square&logoColor=white" />
@@ -328,12 +316,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/Executive%20Reporting-D35400?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/UX%20for%20Data-D35400?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>☁️ Cloud, DevOps & Engineering</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#00172e" width="100%">
-
-### ☁️ Cloud, DevOps & Engineering
 <p>
   <img src="https://img.shields.io/badge/Azure%20DevOps-117A65?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-117A65?style=flat-square&logoColor=white" />
@@ -344,12 +333,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/Cloud%20Computing-117A65?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/MLOps-117A65?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>💻 Software Development</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#1a001a" width="100%">
-
-### 💻 Software Development
 <p>
   <img src="https://img.shields.io/badge/C%23-5D6D7E?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5D6D7E?style=flat-square&logoColor=white" />
@@ -364,12 +354,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/OOP-5D6D7E?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Services-5D6D7E?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>🎖️ Military Operations & Leadership</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#1a2000" width="100%">
-
-### 🎖️ Military Operations & Leadership
 <p>
   <img src="https://img.shields.io/badge/Mission%20Planning-4B5320?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Tactical%20Decision%20Making-4B5320?style=flat-square&logoColor=white" />
@@ -386,12 +377,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/Disaster%20Relief%20Operations-4B5320?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Field%20Equipment%20Maintenance-4B5320?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>🧠 Leadership & People Development</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#001a2e" width="100%">
-
-### 🧠 Leadership & People Development
 <p>
   <img src="https://img.shields.io/badge/Servant%20Leadership-2E86C1?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Team%20Building-2E86C1?style=flat-square&logoColor=white" />
@@ -410,12 +402,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/Salesforce%20CRM-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Pastoral%20Care-2E86C1?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>⛪ Faith, Character & Pastoral Skills</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#2a0a2a" width="100%">
-
-### ⛪ Faith, Character & Pastoral Skills
 <p>
   <img src="https://img.shields.io/badge/Discipleship-6B3FA0?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Biblical%20Counseling-6B3FA0?style=flat-square&logoColor=white" />
@@ -433,12 +426,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/Mission%20Trip%20Leadership-6B3FA0?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Hospital%20%26%20Behavioral%20Health%20Ministry-6B3FA0?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>🗣️ Communication & Soft Skills</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#1a1400" width="100%">
-
-### 🗣️ Communication & Soft Skills
 <p>
   <img src="https://img.shields.io/badge/Public%20Speaking-C0882A?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Socratic%20Method-C0882A?style=flat-square&logoColor=white" />
@@ -460,12 +454,13 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/Persuasive%20Communication-C0882A?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Presentation%20Design-C0882A?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
+<details>
+<summary><b>⚙️ Process, Strategy & Operations</b></summary>
+<br/>
 <table width="100%"><tr><td bgcolor="#001e1e" width="100%">
-
-### ⚙️ Process, Strategy & Operations
 <p>
   <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-7E5109?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Value%20Stream%20Mapping-7E5109?style=flat-square&logoColor=white" />
@@ -482,10 +477,12 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <img src="https://img.shields.io/badge/508%20Accessibility-7E5109?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/SDLC-7E5109?style=flat-square&logoColor=white" />
 </p>
-
 </td></tr></table>
+</details>
 
 <p align="center"><i>"Credentials confirm what character already demonstrated."</i></p>
+
+---
 
 ## 🏆 Achievements & Certifications
 
@@ -516,16 +513,15 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
   <a href="http://verify.skilljar.com/c/sdtnqxanobyk">
     <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
-    <a href="http://verify.skilljar.com/c/wppqvysbffxn">
+  <a href="http://verify.skilljar.com/c/wppqvysbffxn">
     <img src="https://img.shields.io/badge/Anthropic-Claude%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
-   <a href="http://verify.skilljar.com/c/qmp96cr5fhea">
+  <a href="http://verify.skilljar.com/c/qmp96cr5fhea">
     <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency%3A%20Framework%20%26%20Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
 </p>
-</p>
 
-<p align="center"><i>"Every project is a decision made visible. Here are mine."</i></p>
+---
 
 ## 📂 Featured Projects
 
@@ -621,14 +617,23 @@ HackerRank builds SQL depth under competitive pressure. LeetCode builds algorith
 
 <p align="center"><i>"The commit graph does not lie. Neither do I."</i></p>
 
+---
+
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dustindoesdata&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/output/github-snake-dark.svg" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dustindoesdata&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustindoesdata&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" />
 </p>
 
-<p align="center"><i>"The right conversation changes everything. Let us have one."</i></p>
+---
 
 <table width="100%"><tr><td bgcolor="#0d1f35" width="100%">
 
