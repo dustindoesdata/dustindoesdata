@@ -1,0 +1,74 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes cU{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.c1{opacity:0;animation:cU .4s ease-out .1s forwards}
+.c2{opacity:0;animation:cU .4s ease-out .25s forwards}
+.c3{opacity:0;animation:cU .4s ease-out .4s forwards}
+.c4{opacity:0;animation:cU .4s ease-out .55s forwards}
+.c5{opacity:0;animation:cU .4s ease-out .7s forwards}
+.c6{opacity:0;animation:cU .4s ease-out .85s forwards}
+.c7{opacity:0;animation:cU .4s ease-out 1.0s forwards}
+.c8{opacity:0;animation:cU .4s ease-out 1.15s forwards}
+text{font-family:-apple-system,'Segoe UI',Arial,sans-serif}
+</style>
+<rect width="800" height="200" fill="#0d1117"/>
+<text x="400" y="18" text-anchor="middle" font-size="9" fill="#484f58" letter-spacing="4" font-weight="600">BEYOND THE CODE</text>
+
+<!-- Row 1 y=28 h=72 -->
+<g class="c1">
+  <rect x="16" y="28" width="178" height="72" rx="6" fill="#0d0a1a" stroke="#2a1a40" stroke-width="1"/>
+  <text x="26" y="41" font-size="8" fill="#5b21b6" letter-spacing="1">FAITH FIRST</text>
+  <text x="26" y="65" font-size="22" font-weight="700" fill="#a78bfa">12+ Years</text>
+  <text x="26" y="81" font-size="9" fill="#5b21b6">walking as a follower of Jesus</text>
+</g>
+
+<g class="c2">
+  <rect x="210" y="28" width="178" height="72" rx="6" fill="#1a0d00" stroke="#3a2000" stroke-width="1"/>
+  <text x="220" y="41" font-size="8" fill="#92400e" letter-spacing="1">HUSBAND &amp; FATHER</text>
+  <text x="220" y="65" font-size="28" font-weight="700" fill="#fbbf24">3 Kids</text>
+  <text x="220" y="81" font-size="9" fill="#92400e">homeschooled · ahead in math &amp; logic</text>
+</g>
+
+<g class="c3">
+  <rect x="404" y="28" width="178" height="72" rx="6" fill="#1a0d0a" stroke="#3a1a0a" stroke-width="1"/>
+  <text x="414" y="41" font-size="8" fill="#993c1d" letter-spacing="1">QUESTION-DRIVEN</text>
+  <text x="414" y="65" font-size="22" font-weight="700" fill="#f0997b">Questions</text>
+  <text x="414" y="81" font-size="9" fill="#993c1d">understanding before answers</text>
+</g>
+
+<g class="c4">
+  <rect x="598" y="28" width="178" height="72" rx="6" fill="#0a1a1a" stroke="#0f3a3a" stroke-width="1"/>
+  <text x="608" y="41" font-size="8" fill="#0f6e56" letter-spacing="1">PURPOSE-BUILT</text>
+  <text x="608" y="65" font-size="20" font-weight="700" fill="#5dcaa5">No Compromises</text>
+  <text x="608" y="81" font-size="9" fill="#0f6e56">faith · family · work · one source</text>
+</g>
+
+<!-- Row 2 y=112 h=64 -->
+<g class="c5">
+  <rect x="16" y="112" width="178" height="64" rx="6" fill="#1a0a00" stroke="#3a1800" stroke-width="1"/>
+  <text x="26" y="125" font-size="8" fill="#854f0b" letter-spacing="1">HOW I COMMUNICATE</text>
+  <text x="26" y="149" font-size="18" font-weight="700" fill="#ef9f27">Socratic</text>
+  <text x="26" y="165" font-size="9" fill="#854f0b">lead with questions · let them discover</text>
+</g>
+
+<g class="c6">
+  <rect x="210" y="112" width="178" height="64" rx="6" fill="#1a0d2e" stroke="#2a1a4a" stroke-width="1"/>
+  <text x="220" y="125" font-size="8" fill="#534ab7" letter-spacing="1">HOW I THINK</text>
+  <text x="220" y="149" font-size="18" font-weight="700" fill="#7f77dd">Six Hats</text>
+  <text x="220" y="165" font-size="9" fill="#534ab7">value stream · six hats · socratic</text>
+</g>
+
+<g class="c7">
+  <rect x="404" y="112" width="178" height="64" rx="6" fill="#0a1a0a" stroke="#1a3a1a" stroke-width="1"/>
+  <text x="414" y="125" font-size="8" fill="#3b6d11" letter-spacing="1">COMMUNITY</text>
+  <text x="414" y="149" font-size="24" font-weight="700" fill="#97c459">12+</text>
+  <text x="414" y="165" font-size="9" fill="#3b6d11">outreach programs · not weekends</text>
+</g>
+
+<g class="c8">
+  <rect x="598" y="112" width="178" height="64" rx="6" fill="#1a0d0d" stroke="#3a1a1a" stroke-width="1"/>
+  <text x="608" y="125" font-size="8" fill="#a32d2d" letter-spacing="1">HOME</text>
+  <text x="608" y="149" font-size="18" font-weight="700" fill="#f09595">1 Wife · 3 Kids</text>
+  <text x="608" y="165" font-size="9" fill="#a32d2d">1 dog · chaos in fur form · loved</text>
+</g>
+</svg>
