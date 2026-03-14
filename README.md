@@ -152,6 +152,10 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 
 <p align="center">&nbsp;</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/beyond-the-code-banner.svg" alt="Beyond the Code" />
+</p>
+
 <details>
 <summary><b>🙋 Beyond the Code &nbsp;—&nbsp; the human behind the work</b></summary>
 <br/>
