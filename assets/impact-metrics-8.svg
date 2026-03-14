@@ -1,0 +1,64 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes cU{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.c1{opacity:0;animation:cU .4s ease-out .1s forwards}
+.c2{opacity:0;animation:cU .4s ease-out .2s forwards}
+.c3{opacity:0;animation:cU .4s ease-out .3s forwards}
+.c4{opacity:0;animation:cU .4s ease-out .4s forwards}
+.c5{opacity:0;animation:cU .4s ease-out .5s forwards}
+.c6{opacity:0;animation:cU .4s ease-out .6s forwards}
+.c7{opacity:0;animation:cU .4s ease-out .7s forwards}
+.c8{opacity:0;animation:cU .4s ease-out .8s forwards}
+text{font-family:-apple-system,'Segoe UI',Arial,sans-serif}
+</style>
+<rect width="800" height="200" fill="#0d1117"/>
+<text x="400" y="18" text-anchor="middle" font-size="9" fill="#484f58" letter-spacing="4" font-weight="600">BY THE NUMBERS</text>
+<g class="c1">
+  <rect x="16" y="28" width="178" height="72" rx="6" fill="#0d1f0d" stroke="#1a3a1a" stroke-width="1"/>
+  <text x="26" y="41" font-size="8" fill="#4d7c0f" letter-spacing="1">ARMY GUARD</text>
+  <text x="26" y="65" font-size="24" font-weight="700" fill="#6bcf3f">8 Years</text>
+  <text x="26" y="81" font-size="9" fill="#4d7c0f">U.S. Army National Guard</text>
+</g>
+<g class="c2">
+  <rect x="210" y="28" width="178" height="72" rx="6" fill="#0d0a1a" stroke="#2a1a40" stroke-width="1"/>
+  <text x="220" y="41" font-size="8" fill="#5b21b6" letter-spacing="1">PASTORAL CARE</text>
+  <text x="220" y="65" font-size="28" font-weight="700" fill="#a78bfa">12+</text>
+  <text x="220" y="81" font-size="9" fill="#5b21b6">community outreach programs</text>
+</g>
+<g class="c3">
+  <rect x="404" y="28" width="178" height="72" rx="6" fill="#0a1a0d" stroke="#1a3020" stroke-width="1"/>
+  <text x="414" y="41" font-size="8" fill="#065f46" letter-spacing="1">FINANCIAL ADVISOR</text>
+  <text x="414" y="65" font-size="24" font-weight="700" fill="#34d399">$40M+</text>
+  <text x="414" y="81" font-size="9" fill="#065f46">client assets managed</text>
+</g>
+<g class="c4">
+  <rect x="598" y="28" width="178" height="72" rx="6" fill="#0a141f" stroke="#1a2a40" stroke-width="1"/>
+  <text x="608" y="41" font-size="8" fill="#0369a1" letter-spacing="1">AT&amp;T SPECIALIST</text>
+  <text x="608" y="63" font-size="20" font-weight="700" fill="#38bdf8">Certified</text>
+  <text x="608" y="81" font-size="9" fill="#0369a1">Design Thinking · AT&amp;T</text>
+</g>
+<g class="c5">
+  <rect x="16" y="112" width="178" height="72" rx="6" fill="#0d0d1f" stroke="#20204a" stroke-width="1"/>
+  <text x="26" y="125" font-size="8" fill="#3730a3" letter-spacing="1">SOFTWARE ENGINEER</text>
+  <text x="26" y="147" font-size="20" font-weight="700" fill="#818cf8">1,080 hrs</text>
+  <text x="26" y="165" font-size="9" fill="#3730a3">immersive training · Woz U</text>
+</g>
+<g class="c6">
+  <rect x="210" y="112" width="178" height="72" rx="6" fill="#0a1420" stroke="#162a40" stroke-width="1"/>
+  <text x="220" y="125" font-size="8" fill="#0e7490" letter-spacing="1">APP DEVELOPER</text>
+  <text x="220" y="149" font-size="28" font-weight="700" fill="#22d3ee">733%</text>
+  <text x="220" y="165" font-size="9" fill="#0e7490">Power Platform automation</text>
+</g>
+<g class="c7">
+  <rect x="404" y="112" width="178" height="72" rx="6" fill="#1a1200" stroke="#3a2800" stroke-width="1"/>
+  <text x="414" y="125" font-size="8" fill="#92400e" letter-spacing="1">ROBOTICS DIRECTOR</text>
+  <text x="414" y="149" font-size="24" font-weight="700" fill="#fbbf24">Top 2%</text>
+  <text x="414" y="165" font-size="9" fill="#92400e">VEX Worlds · 30K+ students</text>
+</g>
+<g class="c8">
+  <rect x="598" y="112" width="178" height="72" rx="6" fill="#0a1020" stroke="#162040" stroke-width="1"/>
+  <text x="608" y="125" font-size="8" fill="#1f6feb" letter-spacing="1">DATA SCIENTIST</text>
+  <text x="608" y="147" font-size="18" font-weight="700" fill="#58a6ff">Distinction</text>
+  <text x="608" y="165" font-size="9" fill="#1f6feb">M.S. Data Science · 2025</text>
+</g>
+</svg>
