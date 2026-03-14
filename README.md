@@ -17,8 +17,6 @@
 
 <p align="center"><i>A data scientist is the helmsman of the ship — we listen to the captain, and look forward with foresight to determine the best path to achieve the course they set.</i></p>
 
-<p align="center"><i>"The most important questions I have ever asked were never on a résumé. They were asked near bedsides, in desperate moments, while serving people."</i></p>
-
 <br/>
 
 ---
@@ -28,6 +26,8 @@
 <br/>
 
 <table width="100%"><tr><td bgcolor="#0d1f35" width="100%">
+
+<p align="center"><i>"The most important questions I have ever asked were never on a résumé. They were asked near bedsides, in desperate moments, while serving people."</i></p>
 
 I am a Data Scientist who came up through the school of real life before I ever touched a keyboard. Eight years in the military. Three years leading pastoral care. A licensed financial advisor who built a book of business from cold calls. A robotics coach who took four kids to the top 2% in the world. An application developer who redesigned how an entire company operated.
 
@@ -534,12 +534,17 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 <details>
 <summary><b>⚡ ISC Constructors, Power Platform App Suite</b></summary>
-<br/>
+<p><sub>Power Platform &nbsp;·&nbsp; Power Apps &nbsp;·&nbsp; Power Automate &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Trimble Viewpoint</sub></p>
 
 > The operations team was drowning in manual processes. Before a single line of code was written, I mapped every workflow, found every bottleneck, and understood exactly what the business needed to move. Then I built to that — and left room for what the build would inevitably reveal.
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Stored%20Procedures-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Trimble%20Viewpoint-E37222?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Business%20Process%20Automation-27AE60?style=flat-square&logoColor=white" />
 </p>
 
@@ -553,11 +558,16 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 <details>
 <summary><b>📊 Power BI Department Unification Dashboard</b></summary>
-<br/>
+<p><sub>Power BI &nbsp;·&nbsp; Power Platform &nbsp;·&nbsp; Power Automate &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Excel &nbsp;·&nbsp; Figma</sub></p>
 
 > Five teams speaking five different data languages, none of them aware the others existed. The first step was not building — it was listening to each team long enough to understand what they were actually measuring and why. The dashboard came after the understanding.
 
 <p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
@@ -569,12 +579,13 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 <details>
 <summary><b>🏫 School Outcome Comparison Analysis</b></summary>
-<br/>
+<p><sub>Python &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; Matplotlib &nbsp;·&nbsp; SQL &nbsp;·&nbsp; API Scraping</sub></p>
 
 > A data project with personal stakes. I homeschool my three kids, and I wanted the data to back the decision.
 
 <p>
   <img src="https://img.shields.io/badge/Python%20Pandas%20%2B%20Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 - 📊 Statistical comparison across **3 education models**: homeschool, public, and private
@@ -585,7 +596,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 <details>
 <summary><b>🗓️ Family Legacy Calendar System</b></summary>
-<br/>
+<p><sub>Python &nbsp;·&nbsp; Google Sheets API &nbsp;·&nbsp; Gmail API &nbsp;·&nbsp; Bash</sub></p>
 
 > For generations, someone in my family manually built a calendar packed with birthdays, anniversaries, and dates stretching back decades. When the family elder who carried that tradition was ready to pass the baton, I automated it, so it never has to be carried by one person's hands again. The data belongs to the people who trusted me with it. The repo stays private. The system runs.
 
@@ -605,7 +616,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 <details>
 <summary><b>🧮 SQL Mastery Challenge Collection</b></summary>
-<br/>
+<p><sub>SQL &nbsp;·&nbsp; Window Functions &nbsp;·&nbsp; CTEs &nbsp;·&nbsp; JOINs &nbsp;·&nbsp; Query Optimization</sub></p>
 
 > Competitive SQL practice targeting the patterns that show up in real pipelines, not just tutorials.
 
