@@ -210,8 +210,6 @@ Faith is not a weekend activity for me — it is the foundation every other sect
 
 <p align="center"><i>"This was never just a career. It was a calling dressed in every role I ever held."</i></p>
 
-<p align="center"><sup>Every node above is a chapter. Click below to read the full story.</sup></p>
-
 <table width="100%"><tr><td bgcolor="#2e0d1a" width="100%">
 
 ## 🗺️ Professional Journey
