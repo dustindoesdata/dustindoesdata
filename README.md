@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Relocation-58a6ff?style=for-the-badge" />
 </p>
 
-<p align="center"><i>A data scientist is the helmsman of a ship, we listen to the captain, look forward with foresight, and help determine the best path to steady the course to arrive at the destination they set.</i></p>
+<p align="center"><i>A data scientist is the helmsman of a ship, we listen to the captain, looking forward with foresight,to determine the best path to arrive at the desired destination.</i></p>
 
 <br/>
 
