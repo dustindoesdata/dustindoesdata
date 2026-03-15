@@ -21,7 +21,6 @@
 
 <p align="center">&nbsp;</p>
 
----
 
 <p align="center">&nbsp;</p>
 
