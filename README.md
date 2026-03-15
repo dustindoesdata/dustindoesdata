@@ -19,8 +19,6 @@
 
 <br/>
 
----
-
 <details>
 <summary><b>🧭 About Me &nbsp;—&nbsp; click to read the full story</b></summary>
 <br/>
