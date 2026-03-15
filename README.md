@@ -641,8 +641,6 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 
 </details>
 
-<p align="center"><i>"The commit graph does not lie. Neither do I."</i></p>
-
 ---
 
 ## 📊 Contribution & Stats
