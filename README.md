@@ -15,12 +15,22 @@
   <img src="https://img.shields.io/badge/Open%20To-Relocation-58a6ff?style=for-the-badge" />
 </p>
 
-<p align="center"><i>A data scientist is the helmsman of a ship, we listen to the captain, looking forward with foresight to determine the best path to arrive at the desired destination.</i></p>
+<p align="center"><i>A data scientist is the helmsman of the ship — we listen to the captain, and look forward with foresight to determine the best path to achieve the course they set.</i></p>
 
 <br/>
 
+<p align="center">&nbsp;</p>
+
+---
+
+<p align="center">&nbsp;</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/about-me-banner.svg" alt="About Me" />
+</p>
+
 <details>
-<summary><b>🧭 About Me</b></summary>
+<summary><b>🧭 About Me &nbsp;—&nbsp; click to read the full story</b></summary>
 <br/>
 
 <table width="100%"><tr><td bgcolor="#0d1f35" width="100%">
@@ -53,16 +63,18 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 </td></tr></table>
 </details>
 
-<br/>
+<p align="center">&nbsp;</p>
 
 ---
+
+<p align="center">&nbsp;</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/main/assets/impact-metrics-8.svg" alt="Impact Metrics" />
 </p>
 
 <details>
-<summary><b>🔢 By the Numbers</b></summary>
+<summary><b>🔢 By the Numbers &nbsp;—&nbsp; my life in data</b></summary>
 <br/>
 
 <table width="100%"><tr><td bgcolor="#0d2818" width="100%">
@@ -155,7 +167,7 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 </p>
 
 <details>
-<summary><b>🙋 Beyond the Code</b></summary>
+<summary><b>🙋 Beyond the Code &nbsp;—&nbsp; the human behind the work</b></summary>
 <br/>
 
 <table width="100%"><tr><td bgcolor="#1a0d2e" width="100%">
@@ -207,6 +219,8 @@ Faith is not a weekend activity for me — it is the foundation every other sect
 </p>
 
 <p align="center"><i>"This was never just a career. It was a calling dressed in every role I ever held."</i></p>
+
+<p align="center"><sup>Every node above is a chapter. Click below to read the full story.</sup></p>
 
 <table width="100%"><tr><td bgcolor="#2e0d1a" width="100%">
 
@@ -636,6 +650,8 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 - 🧩 **47 of 58** challenges complete, non-hard section nearly cleared
 
 </details>
+
+<p align="center"><i>"The commit graph does not lie. Neither do I."</i></p>
 
 ---
 
