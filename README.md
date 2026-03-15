@@ -20,7 +20,7 @@
 <br/>
 
 <details>
-<summary><b>🧭 About Me &nbsp;—&nbsp; click to read the full story</b></summary>
+<summary><b>🧭 About Me</b></summary>
 <br/>
 
 <table width="100%"><tr><td bgcolor="#0d1f35" width="100%">
@@ -62,7 +62,7 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 </p>
 
 <details>
-<summary><b>🔢 By the Numbers &nbsp;—&nbsp; my life in data</b></summary>
+<summary><b>🔢 By the Numbers</b></summary>
 <br/>
 
 <table width="100%"><tr><td bgcolor="#0d2818" width="100%">
@@ -155,7 +155,7 @@ I hold a **M.S. in Data Science (Graduated with Distinction)** and a **B.S. in I
 </p>
 
 <details>
-<summary><b>🙋 Beyond the Code &nbsp;—&nbsp; the human behind the work</b></summary>
+<summary><b>🙋 Beyond the Code</b></summary>
 <br/>
 
 <table width="100%"><tr><td bgcolor="#1a0d2e" width="100%">
