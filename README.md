@@ -551,6 +551,9 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
    <a href="http://verify.skilljar.com/c/bpw5gn2ixym4">
     <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Model%20Context%20Protocol-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
+     <a href="http://verify.skilljar.com/c/e6wgu5oktjn3">
+    <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Claude%20Cowork-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
 </p>
 
 ---
