@@ -28,6 +28,22 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://github.com/dustindoesdata/homeschool-iq">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dustindoesdata&repo=homeschool-iq&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/dustindoesdata/AnthropicAcademy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dustindoesdata&repo=AnthropicAcademy&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/dustindoesdata/SQL-Practice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dustindoesdata&repo=SQL-Practice&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+<br/>
+
 <br/>
 
 <br/>
@@ -547,12 +563,6 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
   </a>
   <a href="http://verify.skilljar.com/c/bpw5gn2ixym4">
     <img src="https://img.shields.io/badge/Anthropic-Building%20with%20the%20Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  </a>
-   <a href="http://verify.skilljar.com/c/bpw5gn2ixym4">
-    <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Model%20Context%20Protocol-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  </a>
-     <a href="http://verify.skilljar.com/c/e6wgu5oktjn3">
-    <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Claude%20Cowork-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
 </p>
 
