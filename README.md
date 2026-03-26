@@ -28,19 +28,23 @@
 
 <br/>
 
-<p align="center">
+<table width="100%"><tr>
+<td align="center" width="33%">
   <a href="https://github.com/dustindoesdata/homeschool-iq">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dustindoesdata&repo=homeschool-iq&theme=github_dark&hide_border=true" />
   </a>
+</td>
+<td align="center" width="33%">
   <a href="https://github.com/dustindoesdata/AnthropicAcademy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dustindoesdata&repo=AnthropicAcademy&theme=github_dark&hide_border=true" />
   </a>
-</p>
-<p align="center">
+</td>
+<td align="center" width="33%">
   <a href="https://github.com/dustindoesdata/SQL-Practice">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dustindoesdata&repo=SQL-Practice&theme=github_dark&hide_border=true" />
   </a>
-</p>
+</td>
+</tr></table>
 
 <br/>
 
