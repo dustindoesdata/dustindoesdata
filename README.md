@@ -575,6 +575,9 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
    <a href="http://verify.skilljar.com/c/94ubxpxbmntu">
     <img src="https://img.shields.io/badge/AI%20Fluency%20for%20Educators-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
+  <a href="http://verify.skilljar.com/c/qxte8vn7unfw">
+    <img src="https://img.shields.io/badge/AI%20Fluency%20for%20Students-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
 </p>
 
 ---
