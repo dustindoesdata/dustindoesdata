@@ -1,8 +1,8 @@
 <svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
 <style>
 @keyframes fillHackerRank{from{width:0}to{width:534px}}
-@keyframes fillHomeschool{from{width:0}to{width:132px}}
-@keyframes fillAnthropic{from{width:0}to{width:218px}}
+@keyframes fillHomeschool{from{width:0}to{width:660px}}
+@keyframes fillAnthropic{from{width:0}to{width:396px}}
 @keyframes fadeRow{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 text{font-family:-apple-system,'Segoe UI',Arial,sans-serif}
 .r1{opacity:0;animation:fadeRow .4s ease-out .2s forwards}
@@ -37,20 +37,20 @@ text{font-family:-apple-system,'Segoe UI',Arial,sans-serif}
 <!-- Row 3: Homeschool Project -->
 <g class="r3">
   <text x="20" y="150" font-size="12" font-weight="700" fill="#c9d1d9">Homeschool Project</text>
-  <text x="20" y="164" font-size="9" fill="#484f58">Phase 1 of 5 complete · API scrape → clean → visualize → predict</text>
+  <text x="20" y="164" font-size="9" fill="#484f58">Phase 1 of 5 complete · scrape → clean → visualize → predict · Phase 2 queued</text>
   <rect x="20" y="170" width="660" height="11" rx="5.5" fill="#21262d"/>
   <rect class="b3" x="20" y="170" height="11" rx="5.5" fill="#34d399"/>
-  <text x="692" y="180" font-size="10" font-weight="700" fill="#34d399">Active</text>
-  <text x="762" y="180" font-size="10" fill="#484f58">20%</text>
+  <text x="692" y="180" font-size="10" font-weight="700" fill="#34d399">Done</text>
+  <text x="762" y="180" font-size="10" fill="#484f58">100%</text>
 </g>
 
 <!-- Row 4: Anthropic Academy -->
 <g class="r4">
   <text x="20" y="205" font-size="12" font-weight="700" fill="#c9d1d9">Anthropic Academy</text>
-  <text x="20" y="219" font-size="9" fill="#484f58">4 of 13 courses complete · AI fundamentals and prompt engineering</text>
+  <text x="20" y="219" font-size="9" fill="#484f58">9 of 15 courses complete · AI fundamentals and prompt engineering</text>
   <rect x="20" y="228" width="660" height="11" rx="5.5" fill="#21262d"/>
   <rect class="b4" x="20" y="228" height="11" rx="5.5" fill="#d97757"/>
   <text x="692" y="238" font-size="10" font-weight="700" fill="#d97757">Active</text>
-  <text x="762" y="238" font-size="10" fill="#484f58">33%</text>
+  <text x="762" y="238" font-size="10" fill="#484f58">60%</text>
 </g>
 </svg>
