@@ -28,21 +28,33 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/dustindoesdata/homeschool-iq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dustindoesdata&repo=homeschool-iq&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/dustindoesdata/AnthropicAcademy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dustindoesdata&repo=AnthropicAcademy&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/dustindoesdata/SQL-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dustindoesdata&repo=SQL-Practice&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td width="100%" bgcolor="#161b22" style="border-radius:6px;padding:16px;">
+<a href="https://github.com/dustindoesdata/homeschool-iq"><b>📊 homeschool-iq</b></a> &nbsp;
+<img src="https://img.shields.io/badge/Public-2ea043?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+<sub>A Python data pipeline (requests, pandas, SQLite, Streamlit) that scrapes and analyzes homeschool vs. public school research. Cuts through advocacy bias to surface what the data actually says.</sub>
+</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td width="100%" bgcolor="#161b22" style="border-radius:6px;padding:16px;">
+<a href="https://github.com/dustindoesdata/AnthropicAcademy"><b>🤖 AnthropicAcademy</b></a> &nbsp;
+<img src="https://img.shields.io/badge/Public-2ea043?style=flat-square" /><br/>
+<sub>Notes, exercises, and takeaways from Anthropic Academy. Training covers prompt engineering, model behavior, responsible AI development, and building with Claude. A personal reference for applying AI.</sub>
+</td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td width="100%" bgcolor="#161b22" style="border-radius:6px;padding:16px;">
+<a href="https://github.com/dustindoesdata/SQL-Practice"><b>🗄️ SQL-Practice</b></a> &nbsp;
+<img src="https://img.shields.io/badge/Public-2ea043?style=flat-square" />
+<img src="https://img.shields.io/badge/TSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /><br/>
+<sub>SQL challenge solutions from HackerRank and LeetCode targeting the queries that show up in real interviews and real pipelines. Core focus: window functions, CTEs, JOINs, subqueries, and optimization.</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -572,12 +584,6 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
      <a href="http://verify.skilljar.com/c/e6wgu5oktjn3">
     <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Claude%20Cowork-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
-   <a href="http://verify.skilljar.com/c/94ubxpxbmntu">
-    <img src="https://img.shields.io/badge/AI%20Fluency%20for%20Educators-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  </a>
-  <a href="http://verify.skilljar.com/c/qxte8vn7unfw">
-    <img src="https://img.shields.io/badge/AI%20Fluency%20for%20Students-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -697,8 +703,9 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dustindoesdata&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustindoesdata&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" />
+  <img src="https://img.shields.io/github/commit-activity/t/dustindoesdata/homeschool-iq?style=for-the-badge&label=HomeschoolIQ%20Commits&color=58a6ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/commit-activity/t/dustindoesdata/SQL-Practice?style=for-the-badge&label=SQL%20Practice%20Commits&color=fbbf24&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/commit-activity/t/dustindoesdata/AnthropicAcademy?style=for-the-badge&label=Anthropic%20Academy%20Commits&color=d97757&labelColor=0d1117" />
 </p>
 
 ---
