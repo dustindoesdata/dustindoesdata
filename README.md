@@ -572,26 +572,47 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
   <a href="http://verify.skilljar.com/c/wppqvysbffxn">
     <img src="https://img.shields.io/badge/Anthropic-Claude%20101-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
-  <a href="http://verify.skilljar.com/c/qmp96cr5fhea">
-    <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency%3A%20Framework%20%26%20Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <a href="http://verify.skilljar.com/c/e6wgu5oktjn3">
+    <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Claude%20Cowork-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
   <a href="http://verify.skilljar.com/c/bpw5gn2ixym4">
     <img src="https://img.shields.io/badge/Anthropic-Building%20with%20the%20Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
-   <a href="http://verify.skilljar.com/c/7chtmvrxn38y">
+  <a href="http://verify.skilljar.com/c/7chtmvrxn38y">
     <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Model%20Context%20Protocol-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
   <a href="http://verify.skilljar.com/c/oepzsprwhw8u">
     <img src="https://img.shields.io/badge/Anthropic-Model%20Context%20Protocol%3A%20Advanced%20Topics-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
-     <a href="http://verify.skilljar.com/c/e6wgu5oktjn3">
-    <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Claude%20Cowork-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <a href="http://verify.skilljar.com/c/575fx89nmseh">
+    <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Agent%20Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="http://verify.skilljar.com/c/c7739turvngh">
+    <img src="https://img.shields.io/badge/Anthropic-Introduction%20to%20Subagents-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="http://verify.skilljar.com/c/nc7xswaugro9">
+    <img src="https://img.shields.io/badge/Anthropic-AI%20Capabilities%20and%20Limitations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="http://verify.skilljar.com/c/qmp96cr5fhea">
+    <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency%3A%20Framework%20%26%20Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
   <a href="http://verify.skilljar.com/c/94ubxpxbmntu">
     <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency%20for%20Educators-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
   <a href="http://verify.skilljar.com/c/qxte8vn7unfw">
     <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency%20for%20Students-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="http://verify.skilljar.com/c/99dp39d7o5a7">
+    <img src="https://img.shields.io/badge/Anthropic-AI%20Fluency%20for%20Nonprofits-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="http://verify.skilljar.com/c/sryfh58i4bex">
+    <img src="https://img.shields.io/badge/Anthropic-Teaching%20the%20AI%20Fluency%20Framework-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="http://verify.skilljar.com/c/dg79n3345m75">
+    <img src="https://img.shields.io/badge/Anthropic-Claude%20with%20Amazon%20Bedrock-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+  <a href="http://verify.skilljar.com/c/wy38cny6iwrg">
+    <img src="https://img.shields.io/badge/Anthropic-Claude%20with%20Google%20Cloud%20Vertex%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   </a>
 </p>
 
