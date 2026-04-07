@@ -726,7 +726,7 @@ A car wreck that nearly took my family reminded me that time is not guaranteed a
 ## 📊 Contribution & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dustindoesdata&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dustindoesdata&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/dustindoesdata/dustindoesdata/output/github-snake-dark.svg" />
