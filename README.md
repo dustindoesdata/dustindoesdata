@@ -40,18 +40,10 @@
 <tr><td>&nbsp;</td></tr>
 <tr>
 <td width="100%" bgcolor="#161b22" style="border-radius:6px;padding:16px;">
-<a href="https://github.com/dustindoesdata/AnthropicAcademy"><b>🤖 AnthropicAcademy</b></a> &nbsp;
-<img src="https://img.shields.io/badge/Public-2ea043?style=flat-square" /><br/>
-<sub>Notes, exercises, and takeaways from Anthropic Academy. Training covers prompt engineering, model behavior, responsible AI development, and building with Claude. A personal reference for applying AI.</sub>
-</td>
-</tr>
-<tr><td>&nbsp;</td></tr>
-<tr>
-<td width="100%" bgcolor="#161b22" style="border-radius:6px;padding:16px;">
-<a href="https://github.com/dustindoesdata/SQL-Practice"><b>🗄️ SQL-Practice</b></a> &nbsp;
+<a href="https://github.com/dustindoesdata/Citizen-Test"><b>🗳️ Citizen-Test</b></a> &nbsp;
 <img src="https://img.shields.io/badge/Public-2ea043?style=flat-square" />
-<img src="https://img.shields.io/badge/TSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /><br/>
-<sub>SQL challenge solutions from HackerRank and LeetCode targeting the queries that show up in real interviews and real pipelines. Core focus: window functions, CTEs, JOINs, subqueries, and optimization.</sub>
+<img src="https://img.shields.io/badge/Live-dustindoesdata.github.io-58a6ff?style=flat-square" /><br/>
+<sub>An interactive U.S. citizenship test practice app. Built and deployed publicly at <a href="https://dustindoesdata.github.io">dustindoesdata.github.io</a>.</sub>
 </td>
 </tr>
 </table>
@@ -779,13 +771,3 @@ That is what "Building Things That Matter" means. Let's Talk.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=%22Business%20drives%20Technology%2C%20not%20the%20other%20way%20around.%22&fontSize=16&fontColor=8b949e&fontAlignY=65" />
 </p>
-
-
-
-
-
-
-
-
-
-
