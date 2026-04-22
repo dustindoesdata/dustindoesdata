@@ -43,7 +43,7 @@
 <a href="https://github.com/dustindoesdata/Citizen-Test"><b>🗳️ Citizen-Test</b></a> &nbsp;
 <img src="https://img.shields.io/badge/Public-2ea043?style=flat-square" />
 <img src="https://img.shields.io/badge/Live-dustindoesdata.github.io-58a6ff?style=flat-square" /><br/>
-<sub>An interactive U.S. citizenship test practice app. Built and deployed publicly at <a href="https://dustindoesdata.github.io">dustindoesdata.github.io</a>.</sub>
+<sub>An interactive U.S. citizenship test practice app. Built and deployed publicly at <a href="https://dustindoesdata.github.io/citizen-test/">https://dustindoesdata.github.io/citizen-test/</a>.</sub>
 </td>
 </tr>
 </table>
